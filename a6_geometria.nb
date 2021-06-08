@@ -1,0 +1,172 @@
+Notebook[{Cell[
+CellGroupData[{Cell[
+"\<Geometria\>","Title",ExpressionUUID -> "35309309-6a2e-4bf6-91e4-c396e0222a87"],Cell[
+CellGroupData[
+{Cell[
+TextData[{"Geometria"," ","plana"}],"Section",ExpressionUUID -> "813acaf1-8994-4c2f-a04d-79475ee51497"],Cell[
+TextData[
+{"Gerar"," ","formatos"," ","em"," ","2D",":"}],"Text",ExpressionUUID -> "05a7a2eb-e4ce-41ba-9224-bc92037c9e4a"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"Graphics","[",RowBox[{"Disk","[","]"}],"]"}]],"Input",CellFrame -> 1,
+Background -> RGBColor[0.8784313725490196`,1,0.8784313725490196`],CellFrameColor -> RGBColor[
+0.8509803921568627`,0.8509803921568627`,0.8509803921568627`],CellLabel -> "In[1]:= ",
+ExpressionUUID -> "2532e712-50c8-4599-91aa-a0cdd54bb52f"],Cell[
+BoxData[GraphicsBox[
+DiskBox[{0,0}],ExpressionUUID -> "9e83fba2-d9e6-4b94-8d69-4b202a4aeb3c"],StandardForm],
+"Output",CellLabel -> "Out[1]= ",ExpressionUUID -> "5d19cf68-f517-4126-b8cd-80f6b8114b44"]},
+Open],ExpressionUUID -> "8b3738c3-7dd5-4eea-8afd-38dd6fec17d1"],Cell[
+TextData[{"Use","\[NonBreakingSpace]","diretivas","\[NonBreakingSpace]","para"," ","combinar"," ","gr\[AAcute]ficos"," ","e"," ","mudar"," ","seus"," ","estilos",":"}],
+"Text",ExpressionUUID -> "01f4aa70-6252-451b-bc84-720447086356"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"Graphics","[",RowBox[{"{",RowBox[{"Red",","," ",RowBox[{"Disk","[","]"}]}],"}"}],"]"}]],
+"Input",CellFrame -> 1,Background -> RGBColor[0.8784313725490196`,1,0.8784313725490196`],
+CellFrameColor -> RGBColor[0.8509803921568627`,0.8509803921568627`,0.8509803921568627`],
+CellLabel -> "In[4]:= ",ExpressionUUID -> "bbd86865-cf7d-4af0-8fc7-0c7b7ec1707a"],Cell[
+BoxData[
+GraphicsBox[{RGBColor[1,0,0],DiskBox[{0,0}]},ExpressionUUID -> "65505093-de13-4b08-8f06-49a66daba1ff"],
+StandardForm],"Output",CellLabel -> "Out[4]= ",ExpressionUUID -> "c4b0436d-84d4-408d-a3b0-a79433995519"]},
+Open],ExpressionUUID -> "e1a3f7eb-f806-43b1-9323-ada6a531faa7"],Cell[
+TextData[{"Objetos"," ","geom\[EAcute]tricos"," ","consideram"," ","listas"," ","como"," ","coordenadas",":"}],
+"Text",ExpressionUUID -> "6c76bde8-898b-47cf-b31f-3ac8dae62118"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"Graphics","[",RowBox[{"Rectangle","[",RowBox[{RowBox[{"{",RowBox[
+{"0",","," ","0"}],"}"}],","," ",RowBox[{"{",RowBox[{"4",","," ","2"}],"}"}]}],"]"}],"]"}]],
+"Input",CellFrame -> 1,Background -> RGBColor[0.8784313725490196`,1,0.8784313725490196`],
+CellFrameColor -> RGBColor[0.8509803921568627`,0.8509803921568627`,0.8509803921568627`],
+CellLabel -> "In[2]:= ",ExpressionUUID -> "df4630d6-3440-424c-8626-f29564b0346a"],Cell[
+BoxData[
+GraphicsBox[RectangleBox[{0,0},{4,2}]]],"Output",CellLabel -> "Out[2]= ",ExpressionUUID -> "d4677721-e8e2-43ce-a0b7-1a787b9ec117"]},
+Open],ExpressionUUID -> "8e38f753-dd71-40a3-ad98-52bdefbf797c"]},Open],ExpressionUUID -> "95f3ee09-ba12-4925-b203-43dcb67043d0"],Cell[
+CellGroupData[
+{Cell[
+"\<Tri\[AHat]ngulos\>","Section",ExpressionUUID -> "0cf3cb86-4c50-4331-9d2b-8597da78bce9"],Cell[
+TextData[
+{"Gerar"," ","tri\[AHat]ngulos"," ","com"," ","comandos"," ","como","\[NonBreakingSpace]","SASTriangle",":"}],
+"Text",ExpressionUUID -> "b054a3b6-aa8e-4213-a764-cd04e7cc05c8"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"tr"," ","="," ",RowBox[{"SASTriangle","[",RowBox[{"1",","," ",RowBox[
+{"90"," ","\[Degree]"}],","," ","2"}],"]"}]}]],"Input",CellFrame -> 1,Background -> RGBColor[
+0.8784313725490196`,1,0.8784313725490196`],CellFrameColor -> RGBColor[0.8509803921568627`,
+0.8509803921568627`,0.8509803921568627`],CellLabel -> "In[5]:= ",ExpressionUUID -> "f558effb-4f79-4047-868b-f208abebe95e"],Cell[
+BoxData[
+RowBox[{"Triangle","[",RowBox[{"{",RowBox[{RowBox[{"{",RowBox[{"0",",","0"}],"}"}],",",RowBox[
+{"{",RowBox[{SqrtBox["5"],",","0"}],"}"}],",",RowBox[{"{",RowBox[{FractionBox["4",
+SqrtBox["5"]],",",FractionBox["2",SqrtBox["5"]]}],"}"}]}],"}"}],"]"}],StandardForm],
+"Output",CellLabel -> "Out[5]= ",ExpressionUUID -> "59667d0b-c434-4c2e-bcf2-7cde1e3322bf"]},
+Open],ExpressionUUID -> "d9c4277a-17c8-4b85-895b-970c3b832aa0"],Cell[
+TextData[{"Use","\[NonBreakingSpace]","Graphics","\[NonBreakingSpace]","para"," ","obter"," ","uma"," ","representa\[CCedilla]\[ATilde]o"," ","gr\[AAcute]fica",":"}],
+"Text",ExpressionUUID -> "424852d5-5051-4ee1-86c7-fca452ac6b4f"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"Graphics","[","tr","]"}]],"Input",CellFrame -> 1,Background -> RGBColor[
+0.8784313725490196`,1,0.8784313725490196`],CellFrameColor -> RGBColor[0.8509803921568627`,
+0.8509803921568627`,0.8509803921568627`],CellLabel -> "In[6]:= ",ExpressionUUID -> "4ef980da-fba0-4785-85d4-67c5527ec5bc"],Cell[
+BoxData[
+GraphicsBox[TagBox[PolygonBox[NCache[{{0,0},{Power[5,Rational[1,2]],0},{Times[4,Power[
+5,Rational[-1,2]]],Times[2,Power[5,Rational[-1,2]]]}},{{0,0},{2.23606797749979,0},{1.7888543819998317,0.8944271909999159}}]],
+"Triangle"],ExpressionUUID -> "215f2d43-0d8c-4d7a-80e7-d3950b7048cf"],StandardForm],
+"Output",CellLabel -> "Out[6]= ",ExpressionUUID -> "7b947080-6c0a-4c09-85d3-b9386a7c4aa5"]},
+Open],ExpressionUUID -> "793de3ce-489a-4729-a935-71a5ec702aae"],Cell[
+TextData[{"Propriedades"," ","como","\[NonBreakingSpace]","\[AAcute]rea","\[NonBreakingSpace]","podem"," ","ser"," ","calculadas"," ","diretamente",":"}],
+"Text",ExpressionUUID -> "a7464a87-2956-49ee-a055-3cc8f720fdb9"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"Area","[","tr","]"}]],"Input",CellFrame -> 1,Background -> RGBColor[
+0.8784313725490196`,1,0.8784313725490196`],CellFrameColor -> RGBColor[0.8509803921568627`,
+0.8509803921568627`,0.8509803921568627`],CellLabel -> "In[7]:= ",ExpressionUUID -> "b32e8a2d-71ad-418b-a1bc-3d49be23249d"],Cell[
+BoxData[
+"1",StandardForm],"Output",CellLabel -> "Out[7]= ",ExpressionUUID -> "e5af77ab-3bc4-4a70-a892-fe41a7ce9a12"]},
+Open],ExpressionUUID -> "dbacc61d-8446-4677-9b4d-505474ebddeb"]},Open],ExpressionUUID -> "6502f80e-b121-429f-aa25-825405cf8e83"],Cell[
+CellGroupData[
+{Cell[
+TextData[{"S\[OAcute]lidos"," ","geom\[EAcute]tricos"}],"Section",ExpressionUUID -> "040f86c0-3a81-4ca5-a2e6-5a8674bf053c"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"Graphics3D","[",RowBox[{"Ball","[","]"}],"]"}]],"Input",CellFrame -> 1,
+Background -> RGBColor[0.8784313725490196`,1,0.8784313725490196`],CellFrameColor -> RGBColor[
+0.8509803921568627`,0.8509803921568627`,0.8509803921568627`],CellLabel -> "In[8]:= ",
+ExpressionUUID -> "67d6ed3f-6224-4d74-abb2-0eda3e005cbc"],Cell[
+BoxData[Graphics3DBox[
+TagBox[SphereBox[{0,0,0}],"Ball"],ExpressionUUID -> "e2b16b75-f913-46bd-9fad-135535fb9f35"],
+StandardForm],"Output",CellLabel -> "Out[8]= ",ExpressionUUID -> "1b2929f7-e754-418f-8c60-de524fddcc33"]},
+Open],ExpressionUUID -> "53e123d7-82e0-4093-a39b-17b60d83bea3"],Cell[
+TextData[{"Calcule"," ","o","\[NonBreakingSpace]","volume","\[NonBreakingSpace]","e"," ","outras"," ","propriedades",":"}],
+"Text",ExpressionUUID -> "0adde137-cc90-4ba7-b8e9-167081321bc1"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"Volume","[",RowBox[{"Cylinder","[","]"}],"]"}]],"Input",CellFrame -> 1,
+Background -> RGBColor[0.8784313725490196`,1,0.8784313725490196`],CellFrameColor -> RGBColor[
+0.8509803921568627`,0.8509803921568627`,0.8509803921568627`],CellLabel -> "In[11]:= ",
+ExpressionUUID -> "553cc255-9488-4dc8-8f39-8e94d8ee1332"],Cell[
+BoxData[RowBox[{"2"," ","\[Pi]"}],
+StandardForm],"Output",CellLabel -> "Out[11]= ",ExpressionUUID -> "e4004409-fd09-44fb-8780-02ea5bdc8ae6"]},
+Open],ExpressionUUID -> "c6f5bea4-62d4-4508-828b-768e95f0f66a"],Cell[
+TextData[{"Encontrar"," ","f\[OAcute]rmulas"," ","e"," ","outras"," ","informa\[CCedilla]\[OTilde]es"," ","com"," ","linguagem"," ","natural",":"}],
+"Text",ExpressionUUID -> "17a0d6d1-198b-4da3-80b3-7ecbb837af63"],Cell[
+CellGroupData[
+{Cell[
+TextData[{"volume"," ","of"," ","a"," ","cone"}],"WolframAlphaShort",CellFrame -> 1,
+Background -> RGBColor[0.8784313725490196`,1,0.8784313725490196`],CellFrameColor -> RGBColor[
+0.8509803921568627`,0.8509803921568627`,0.8509803921568627`],CellLabel -> "In[15]:= ",
+ExpressionUUID -> "ceca577d-9221-4e99-b3d3-fff88d947490"],Cell[
+BoxData[RowBox[{"Function","[",RowBox[
+{RowBox[{"{",RowBox[{"\[FormalA]",",","\[FormalH]"}],"}"}],",",RowBox[{FractionBox[
+"1","3"]," ","\[FormalH]"," ","\[Pi]"," ",SuperscriptBox["\[FormalA]","2"]}]}],"]"}],
+StandardForm],"Output",CellLabel -> "Out[15]= ",ExpressionUUID -> "f259e630-75f6-4211-976f-b944b6a4cc9b"]},
+Open],ExpressionUUID -> "c5d5598b-aaaf-4ba3-a028-a42f66c79f8a"]},Open],ExpressionUUID -> "78b2f403-d57a-43cc-b27c-9488b0bbf282"],Cell[
+CellGroupData[
+{Cell[
+TextData[{"Transforma\[CCedilla]\[OTilde]es"," ","geom\[EAcute]tricas"}],"Section",
+ExpressionUUID -> "4a477f58-1958-41f9-83ae-410f39728a03"],Cell[
+TextData[{"Rotate",":"}],
+"Text",ExpressionUUID -> "55124c63-581a-4c2b-827a-0d7d4f2abe78"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"{","\n",RowBox[{RowBox[{"Graphics","[",RowBox[{"Rectangle","[","]"}],"]"}],",","\n",RowBox[
+{"Graphics","[",RowBox[{"Rotate","[",RowBox[{RowBox[{"Rectangle","[","]"}],","," ",RowBox[
+{"45"," ","\[Degree]"}]}],"]"}],"]"}]}],"\n","}"}]],"Input",CellFrame -> 1,Background -> RGBColor[
+0.8784313725490196`,1,0.8784313725490196`],CellFrameColor -> RGBColor[0.8509803921568627`,
+0.8509803921568627`,0.8509803921568627`],CellLabel -> "In[24]:= ",ExpressionUUID -> "f010a5fd-6a90-47d7-bb1d-35718acb82bd"],Cell[
+BoxData[
+RowBox[{"{",RowBox[{GraphicsBox[RectangleBox[{0,0}],ExpressionUUID -> "f8efe508-8f33-4048-83ac-3cc9619bf9b4"],",",GraphicsBox[
+GeometricTransformationBox[RectangleBox[{0,0}],{{{0.7071067811865475,-0.7071067811865475},{0.7071067811865475,0.7071067811865475}},Center}],
+ExpressionUUID -> "5bde638d-ec91-414b-a41e-64ef448f1fe6"]}],"}"}],StandardForm],"Output",
+CellLabel -> "Out[24]= ",ExpressionUUID -> "c90f5673-8fab-4751-8c50-c18870c88460"]},
+Open],ExpressionUUID -> "da56c10c-a0a6-46e9-b76a-a0f34e78f971"],Cell[
+TextData[{"Translate",":"}],
+"Text",ExpressionUUID -> "c31e0258-25f2-4e87-9ab1-d263c6e9df9b"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"{","\n",RowBox[{RowBox[{"Graphics","[",RowBox[{RowBox[{"Circle","[","]"}],","," ",RowBox[
+{"Axes"," ","\[Rule]"," ","True"}]}],"]"}],",","\n",RowBox[{"Graphics","[",RowBox[
+{RowBox[{"Translate","[",RowBox[{RowBox[{"Circle","[","]"}],","," ",RowBox[{"{",RowBox[
+{"1",","," ","0"}],"}"}]}],"]"}],","," ",RowBox[{"Axes"," ","\[Rule]"," ","True"}]}],"]"}]}],"\n","}"}]],
+"Input",CellFrame -> 1,Background -> RGBColor[0.8784313725490196`,1,0.8784313725490196`],
+CellFrameColor -> RGBColor[0.8509803921568627`,0.8509803921568627`,0.8509803921568627`],
+CellLabel -> "In[23]:= ",ExpressionUUID -> "695133b4-44b5-48e7-9ba7-7cc48930ebdf"],Cell[
+BoxData[
+RowBox[{"{",RowBox[{GraphicsBox[CircleBox[{0,0}],Axes -> True,ExpressionUUID -> "7e7f5190-359c-479b-ad40-7e95bd169ee7"],",",GraphicsBox[
+GeometricTransformationBox[CircleBox[{0,0}],{1,0}],Axes -> True,ExpressionUUID -> "acf757a2-2321-48eb-8e14-62aa76c60061"]}],"}"}],
+StandardForm],"Output",CellLabel -> "Out[23]= ",ExpressionUUID -> "c0927f71-c8b4-4cc9-9c29-63e42e6c694c"]},
+Open],ExpressionUUID -> "3dfcb2a1-5ec6-410e-9154-3d98fffcb3f1"],Cell[
+TextData[{"Scale",":"}],
+"Text",ExpressionUUID -> "2e0d9994-d7e2-4ac7-b46c-8a7347f59b82"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"{","\n",RowBox[{RowBox[{"Graphics","[",RowBox[{"Disk","[","]"}],"]"}],",","\n",RowBox[
+{"Graphics","["," ",RowBox[{"Scale","[",RowBox[{RowBox[{"Disk","[","]"}],","," ",RowBox[
+{"{",RowBox[{"1",","," ",RowBox[{"1","/","2"}]}],"}"}]}],"]"}],"]"}]}],"\n","}"}]],
+"Input",CellFrame -> 1,Background -> RGBColor[0.8784313725490196`,1,0.8784313725490196`],
+CellFrameColor -> RGBColor[0.8509803921568627`,0.8509803921568627`,0.8509803921568627`],
+CellLabel -> "In[31]:= ",ExpressionUUID -> "f381008f-bf16-4566-8517-dd1eaedb929f"],Cell[
+BoxData[
+RowBox[{"{",RowBox[{GraphicsBox[DiskBox[{0,0}],ExpressionUUID -> "03065e56-5c16-4677-a882-7225892e350f"],",",GraphicsBox[
+GeometricTransformationBox[DiskBox[{0,0}],{{{1,0},{0,0.5}},Center}],ExpressionUUID -> "f5d0de2c-7c7d-4cdd-a3b1-84b7fa65b135"]}],"}"}],
+StandardForm],"Output",CellLabel -> "Out[31]= ",ExpressionUUID -> "0e661fcd-4eb9-409f-af96-a5da0f7fdf02"]},
+Open],ExpressionUUID -> "07e7b814-a1ad-4875-ae6f-24121960b87a"]},Open],ExpressionUUID -> "403db264-4bb6-4e4b-8de9-4df64c6ff5e0"]},
+Open],ExpressionUUID -> "a96d4b3c-e83a-4fa3-8621-267ee4e745fd"]},StyleDefinitions -> "Default.nb",
+FrontEndVersion -> "12.3 for Wolfram Cloud 1.58.2.1 (May 19, 2021)",TaggingRules -> {"TryRealOnly" -> False}]

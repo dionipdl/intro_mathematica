@@ -1,0 +1,137 @@
+Notebook[{Cell[
+"\<\>","Text",ExpressionUUID -> "ebaad4ba-5e19-4ae2-a1d4-dec0a88e0c2e"],Cell[
+CellGroupData[
+{Cell[
+TextData[{"Fra\[CCedilla]\[OTilde]es"," ","e"," ","decimais"}],"Title",ExpressionUUID -> "c50c595b-c085-409f-8ead-54dd9c83f4e0"],Cell[
+CellGroupData[
+{Cell[
+TextData[{"Precis\[ATilde]o"," ","Num\[EAcute]rica"}],"Section",ExpressionUUID -> "2e80ce1d-f144-491e-8313-7ee5c853b266"],Cell[
+TextData[
+{"Entradas"," ","de"," ","dados"," ","exatas"," ","resultam"," ","em","\[NonBreakingSpace]","sa\[IAcute]das"," ","exatas",":"}],
+"Text",ExpressionUUID -> "a2b8a9ff-5891-4826-9034-a3a9d411fdc2"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{RowBox[{"1","/","4"}]," ","+"," ",RowBox[{"1","/","3"}]}]],
+"Input",CellFrame -> 1,Background -> RGBColor[0.8784313725490196`,1,0.8784313725490196`],
+CellFrameColor -> RGBColor[0.8509803921568627`,0.8509803921568627`,0.8509803921568627`],
+CellLabel -> "In[1]:= ",ExpressionUUID -> "405089ac-25f8-4eb4-8778-224a8929f1c6"],Cell[
+BoxData[
+FractionBox["7","12"],StandardForm],"Output",CellLabel -> "Out[1]= ",ExpressionUUID -> "59e0bb1b-4736-48c4-9bd2-15bbe1632cdf"]},
+Open],ExpressionUUID -> "53aefc76-eb7d-4238-80e7-5a3b9b79d784"],Cell[
+TextData[{"Entradas"," ","de"," ","dados"," ","que"," ","contenham"," ","decimais"," ","apresentam"," ","resultados"," ","aproximados",":"}],
+"Text",ExpressionUUID -> "30658d7d-e48d-43fa-a927-f3bedf1ddc3d"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"0.25"," ","+"," ",RowBox[{"1","/","3"}]}]],"Input",CellFrame -> 1,
+Background -> RGBColor[0.8784313725490196`,1,0.8784313725490196`],CellFrameColor -> RGBColor[
+0.8509803921568627`,0.8509803921568627`,0.8509803921568627`],CellLabel -> "In[2]:= ",
+ExpressionUUID -> "0183cb01-aede-4807-af52-06bd758aac4e"],Cell[
+BoxData["0.5833333333333333`",
+StandardForm],"Output",CellLabel -> "Out[2]= ",ExpressionUUID -> "13cf0fc3-7d78-4b4d-a6bd-8a828fb55237"]},
+Open],ExpressionUUID -> "501c6c34-0661-40ef-a115-2e239361e36c"],Cell[
+TextData[{"Use","\[NonBreakingSpace]","N","\[NonBreakingSpace]","para"," ","obter"," ","uma"," ","aproxima\[CCedilla]\[ATilde]o"," ","num\[EAcute]rica"," ","de"," ","um"," ","resultado"," ","exato",":"}],
+"Text",ExpressionUUID -> "fec5cdbf-f734-4c6d-a1d1-ae231dfb71a2"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"N","[",RowBox[{"1","/","7"}],"]"}]],"Input",CellFrame -> 1,
+Background -> RGBColor[0.8784313725490196`,1,0.8784313725490196`],CellFrameColor -> RGBColor[
+0.8509803921568627`,0.8509803921568627`,0.8509803921568627`],CellLabel -> "In[3]:= ",
+ExpressionUUID -> "feb5480d-ebb2-4acc-9fb0-1284fef43878"],Cell[
+BoxData["0.14285714285714285`",
+StandardForm],"Output",CellLabel -> "Out[3]= ",ExpressionUUID -> "0e3f20b3-37b9-4f77-8327-417c9844451e"]},
+Open],ExpressionUUID -> "5af108ba-9984-43c4-889e-6c00f7dc80f3"],Cell[
+TextData[{"Especifique"," ","a"," ","precis\[ATilde]o"," ","do"," ","resultado",":"}],
+"Text",ExpressionUUID -> "0c468d75-853d-46b4-a2fa-ca3ebc8b1356"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"{",RowBox[{RowBox[{"N","[",RowBox[{RowBox[{"1","/","7"}],",","3"}],"]"}],","," ",RowBox[
+{"N","[",RowBox[{RowBox[{"1","/","7"}],",","10"}],"]"}]}],"}"}]],"Input",CellFrame -> 1,
+Background -> RGBColor[0.8784313725490196`,1,0.8784313725490196`],CellFrameColor -> RGBColor[
+0.8509803921568627`,0.8509803921568627`,0.8509803921568627`],CellLabel -> "In[4]:= ",
+ExpressionUUID -> "f9de5056-6858-445a-adf3-3ab25161d766"],Cell[
+BoxData[RowBox[{"{",RowBox[
+{"0.1428571428571428571`3.",",","0.14285714285714285714285714285714285714`10."}],"}"}],
+StandardForm],"Output",CellLabel -> "Out[4]= ",ExpressionUUID -> "c523e3cd-a999-4473-8757-70343a03e01d"]},
+Open],ExpressionUUID -> "fb723684-aee0-4d2f-9628-bb21d948350e"],Cell[
+TextData[{"Alguns"," ","n\[UAcute]meros"," ","s\[ATilde]o"," ","melhores"," ","expressos"," ","em","\[NonBreakingSpace]","ScientificForm",":"}],
+"Text",ExpressionUUID -> "14f78982-daec-4b92-a5ec-acfbe579eaa5"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"ScientificForm","[","0.00123","]"}]],"Input",CellFrame -> 1,
+Background -> RGBColor[0.8784313725490196`,1,0.8784313725490196`],CellFrameColor -> RGBColor[
+0.8509803921568627`,0.8509803921568627`,0.8509803921568627`],CellLabel -> "In[5]:= ",
+ExpressionUUID -> "e7f707d9-7b8c-4fba-a585-1552d5545df4"],Cell[
+BoxData[TagBox[InterpretationBox[
+StyleBox[RowBox[{"\"1.23\"","\[Times]",SuperscriptBox["10","\"-3\""]}],ShowStringCharacters -> False],
+0.00123,AutoDelete -> True],ScientificForm],StandardForm],"Output",CellLabel -> "Out[5]//ScientificForm= ",
+ExpressionUUID -> "289cc5d5-f1f7-47a8-8f22-3dd4522088bd"]},Open],ExpressionUUID -> "85f8e496-ceb1-443f-a1e7-0fe75a8f48a8"],Cell[
+TextData[
+{"ScientificForm","\[NonBreakingSpace]","\[EAcute]"," ","aplicada"," ","de"," ","forma"," ","autom\[AAcute]tica"," ","quando"," ","apropriada",":"}],
+"Text",ExpressionUUID -> "109dd81d-a99b-48b0-9d0a-30d17facfb0d"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"N","[",RowBox[{"100","!"}],"]"}]],"Input",CellFrame -> 1,
+Background -> RGBColor[0.8784313725490196`,1,0.8784313725490196`],CellFrameColor -> RGBColor[
+0.8509803921568627`,0.8509803921568627`,0.8509803921568627`],CellLabel -> "In[6]:= ",
+ExpressionUUID -> "e46eeb7b-b19d-4444-872d-39ed6e51d4d6"],Cell[
+BoxData["9.332621544394415`*^157",
+StandardForm],"Output",CellLabel -> "Out[6]= ",ExpressionUUID -> "0ddb5684-b450-4bb7-9d51-8809a3eb083d"]},
+Open],ExpressionUUID -> "ff8364de-3933-4b6c-abc3-147706926941"]},Open],ExpressionUUID -> "e91b7a12-45ef-42b7-af8f-4c1c06ea1fda"],Cell[
+CellGroupData[
+{Cell[
+TextData[{"Fun\[CCedilla]\[OTilde]es"," ","racionais"}],"Section",ExpressionUUID -> "e7d8c177-3f95-47ee-8c2f-c154a0e3ba1e"],Cell[
+TextData[
+{"Soma",StyleBox[RowBox[{","," "}]],"subtra\[CCedilla]\[ATilde]o",StyleBox[RowBox[
+{","," "}]],"multiplica\[CCedilla]\[ATilde]o"," ","e"," ","divis\[ATilde]o"," ","com"," ","s\[IAcute]mbolos"," ","tradicionais",":"}],
+"Text",ExpressionUUID -> "be062bf4-8f35-407c-a0f3-a0025f8d4cf0"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"{",RowBox[{RowBox[{RowBox[{"1","/","a"}]," ","+"," ",RowBox[
+{"1","/","b"}]}],","," ",RowBox[{RowBox[{"1","/","a"}]," ","*"," ",RowBox[{"1","/","b"}]}]}],"}"}]],
+"Input",CellFrame -> 1,Background -> RGBColor[0.8784313725490196`,1,0.8784313725490196`],
+CellFrameColor -> RGBColor[0.8509803921568627`,0.8509803921568627`,0.8509803921568627`],
+CellLabel -> "In[7]:= ",ExpressionUUID -> "dace00b0-fe52-4110-9eaa-c8a2e3c73c1f"],Cell[
+BoxData[
+RowBox[{"{",RowBox[{RowBox[{FractionBox["1","a"],"+",FractionBox["1","b"]}],",",FractionBox[
+"1",RowBox[{"a"," ","b"}]]}],"}"}],StandardForm],"Output",CellLabel -> "Out[7]= ",
+ExpressionUUID -> "bf81c79f-78f3-4471-8190-52958b46f759"]},Open],ExpressionUUID -> "a860de41-a888-46bb-8d29-411e0d85cbc0"],Cell[
+TextData[
+{"Coloque"," ","as"," ","fra\[CCedilla]\[OTilde]es"," ","sobre"," ","seu"," ","m\[IAcute]nimo"," ","denominador"," ","comum",":"}],
+"Text",ExpressionUUID -> "e3f42ad4-06e5-4299-8200-c1e29588433d"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"Together","[",RowBox[{RowBox[{"1","/","a"}]," ","+"," ",RowBox[
+{"1","/","b"}]}],"]"}]],"Input",CellFrame -> 1,Background -> RGBColor[0.8784313725490196`,
+1,0.8784313725490196`],CellFrameColor -> RGBColor[0.8509803921568627`,0.8509803921568627`,
+0.8509803921568627`],CellLabel -> "In[8]:= ",ExpressionUUID -> "382db6fa-7094-45c9-aaa2-7e1fac74cf2e"],Cell[
+BoxData[
+FractionBox[RowBox[{"a","+","b"}],RowBox[{"a"," ","b"}]],StandardForm],"Output",CellLabel -> "Out[8]= ",
+ExpressionUUID -> "873020e8-7786-4070-ac8a-8930a98f9dd9"]},Open],ExpressionUUID -> "1f299952-5aec-43e0-8e6a-416113b02fe3"],Cell[
+TextData[
+{"Decomponha"," ","as"," ","fra\[CCedilla]\[OTilde]es"," ","parciais"," ","com"," ","denominadores"," ","m\[IAcute]nimos",":"}],
+"Text",ExpressionUUID -> "327ca2e5-ac95-4a46-98cf-5fd851ea1d4a"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"Apart","[","%","]"}]],"Input",CellFrame -> 1,Background -> RGBColor[
+0.8784313725490196`,1,0.8784313725490196`],CellFrameColor -> RGBColor[0.8509803921568627`,
+0.8509803921568627`,0.8509803921568627`],CellLabel -> "In[9]:= ",ExpressionUUID -> "0a483333-f41b-48b5-b335-4d48af9c7c84"],Cell[
+BoxData[
+RowBox[{FractionBox["1","a"],"+",FractionBox["1","b"]}],StandardForm],"Output",CellLabel -> "Out[9]= ",
+ExpressionUUID -> "55d5b336-ebc3-4aa1-8ee7-c2d01c07e309"]},Open],ExpressionUUID -> "6e06fd07-29c0-47a4-bc51-f80b8284f842"],Cell[
+TextData[
+{"Cancelar"," ","fatores"," ","comuns"," ","entre"," ","numerador"," ","e"," ","denominador",":"}],
+"Text",ExpressionUUID -> "f115f133-a272-4291-9730-09ed36e118d4"],Cell[
+CellGroupData[
+{Cell[
+BoxData[{RowBox[{RowBox[{"expr","=",RowBox[{RowBox[{"(",RowBox[{RowBox[{"x","^","2"}]," ","-"," ","1"}],")"}],"/",RowBox[
+{"(",RowBox[{"x"," ","-"," ","1"}],")"}]}]}],";"}],"\n",RowBox[{"{",RowBox[{"expr",",",RowBox[
+{"Cancel","[","expr","]"}]}],"}"}]}],"Input",CellFrame -> 1,Background -> RGBColor[
+0.8784313725490196`,1,0.8784313725490196`],CellFrameColor -> RGBColor[0.8509803921568627`,
+0.8509803921568627`,0.8509803921568627`],CellLabel -> "In[10]:= ",ExpressionUUID -> "6d998b86-c7e2-4437-a9c3-1c5f5d118b90"],Cell[
+BoxData[
+RowBox[{"{",RowBox[{FractionBox[RowBox[{RowBox[{"-","1"}],"+",SuperscriptBox["x",
+"2"]}],RowBox[{RowBox[{"-","1"}],"+","x"}]],",",RowBox[{"1","+","x"}]}],"}"}],StandardForm],
+"Output",CellLabel -> "Out[11]= ",ExpressionUUID -> "1d34a6de-e945-48cf-a652-c2ed996f28e6"]},
+Open],ExpressionUUID -> "f0612ef6-666f-434f-943b-d0b20625b743"]},Open],ExpressionUUID -> "ba1849bc-9bba-4d35-bbfa-a90990e4a9d4"]},
+Open],ExpressionUUID -> "7889e403-6c18-4a75-ad4b-86ff87270714"]},StyleDefinitions -> "Default.nb",
+FrontEndVersion -> "12.3 for Wolfram Cloud 1.58.2.1 (May 19, 2021)"]

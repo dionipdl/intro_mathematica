@@ -1,0 +1,125 @@
+Notebook[{Cell[
+CellGroupData[{Cell[
+"\<Trigonometria\>","Title",ExpressionUUID -> "aa0a10aa-8dc6-444d-9557-0080d9cb21b4"],Cell[
+CellGroupData[
+{Cell[
+TextData[{"Fun\[CCedilla]\[OTilde]es"," ","trigonom\[EAcute]tricas"}],"Section",
+ExpressionUUID -> "bff0bcaa-f43b-4223-b2f8-35029c91652f"],Cell[
+TextData[{"Fun\[CCedilla]\[OTilde]es"," ","trigonom\[EAcute]tricas"," ","b\[AAcute]sicas",":"}],
+"Text",ExpressionUUID -> "f11bcb9c-9108-4569-a817-dafbed12f88a"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{RowBox[{RowBox[{"Sin","[","x","]"}],"/",RowBox[{"Cos","[","x","]"}]}]," ","=="," ",RowBox[
+{"Tan","[","x","]"}]}]],"Input",CellFrame -> 1,Background -> RGBColor[0.8784313725490196`,
+1,0.8784313725490196`],CellFrameColor -> RGBColor[0.8509803921568627`,0.8509803921568627`,
+0.8509803921568627`],CellLabel -> "In[1]:= ",ExpressionUUID -> "019f9862-a562-4447-80eb-745b8495c942"],Cell[
+BoxData[
+"True",StandardForm],"Output",CellLabel -> "Out[1]= ",ExpressionUUID -> "47f3e154-df73-4d97-8f27-9c41c0dc3d7d"]},
+Open],ExpressionUUID -> "3d99ed41-68fe-4428-913f-e8b57d84f38d"],Cell[
+TextData[{"Fun\[CCedilla]\[OTilde]es"," ","trigonom\[EAcute]tricas"," ","inversas",":"}],
+"Text",ExpressionUUID -> "147dfce8-ac51-48a2-a4df-64d98511300e"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"ArcTan","[","1","]"}]],"Input",CellFrame -> 1,Background -> RGBColor[
+0.8784313725490196`,1,0.8784313725490196`],CellFrameColor -> RGBColor[0.8509803921568627`,
+0.8509803921568627`,0.8509803921568627`],CellLabel -> "In[2]:= ",ExpressionUUID -> "2b400c78-5d87-42be-b777-fdce6fbe7ef6"],Cell[
+BoxData[
+FractionBox["\[Pi]","4"],StandardForm],"Output",CellLabel -> "Out[2]= ",ExpressionUUID -> "31d4cc5b-240f-495a-80f6-dd8a2acf7a69"]},
+Open],ExpressionUUID -> "cff92293-500c-441e-a69b-4e7494c5ef02"]},Open],ExpressionUUID -> "48a2b5d4-f6e9-4ecb-9fd4-ca9f32673010"],Cell[
+CellGroupData[
+{Cell[
+TextData[{"Radianos"," ","e"," ","Graus"}],"Section",ExpressionUUID -> "4a22f15a-6140-4a11-8d17-9c7f235354bb"],Cell[
+TextData[
+{"Express\[OTilde]es"," ","de"," ","radianos",":"}],"Text",ExpressionUUID -> "c182ad18-7ed5-4afe-8fce-f164dc53f216"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"Sin","[",RowBox[{"Pi","/","2"}],"]"}]],"Input",CellFrame -> 1,
+Background -> RGBColor[0.8784313725490196`,1,0.8784313725490196`],CellFrameColor -> RGBColor[
+0.8509803921568627`,0.8509803921568627`,0.8509803921568627`],CellLabel -> "In[3]:= ",
+ExpressionUUID -> "5738be13-cea7-43c4-8f5d-d2163d11db7b"],Cell[
+BoxData["1",StandardForm],
+"Output",CellLabel -> "Out[3]= ",ExpressionUUID -> "f1584fcd-a48d-49de-9434-4a4728ea59d2"]},
+Open],ExpressionUUID -> "fd9d4021-a73b-4db6-8ab0-c7364211c670"],Cell[
+TextData[{"Digite","\[NonBreakingSpace]","ESC"," ","deg"," ","ESC","\[NonBreakingSpace]","para"," ","o"," ","s\[IAcute]mbolo"," ","de","\[NonBreakingSpace]","grau","\[NonBreakingSpace]","incorporado",":"}],
+"Text",ExpressionUUID -> "aa3d09ec-8f2e-48e6-9a20-5085ffae1359"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"Sin","[",RowBox[{"90","\[Degree]"}],"]"}]],"Input",CellFrame -> 1,
+Background -> RGBColor[0.8784313725490196`,1,0.8784313725490196`],CellFrameColor -> RGBColor[
+0.8509803921568627`,0.8509803921568627`,0.8509803921568627`],CellLabel -> "In[4]:= ",
+ExpressionUUID -> "b68e5918-5ba4-4b06-a797-2d5dacddbb42"],Cell[
+BoxData["1",StandardForm],
+"Output",CellLabel -> "Out[4]= ",ExpressionUUID -> "9f3646b6-c368-4a29-ae96-db45d7e143d6"]},
+Open],ExpressionUUID -> "0bb44e8e-576c-4e19-bc29-1bf449ef9c8b"]},Open],ExpressionUUID -> "f345cabd-a8de-44be-bb93-c0f5f1f7104f"],Cell[
+CellGroupData[
+{Cell[
+TextData[{"Identidades"," ","Trigonom\[EAcute]tricas"}],"Section",ExpressionUUID -> "32af8b49-cd19-41e4-a5fa-2566cfeeb822"],Cell[
+TextData[
+{"Expanda"," ","express\[OTilde]es"," ","trigonom\[EAcute]tricas",":"}],"Text",ExpressionUUID -> "2757ddc8-b533-4f15-b4f8-e1f6b4d32f6f"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"TrigExpand","[",RowBox[{"Sin","[",RowBox[{"2"," ","x"}],"]"}],"]"}]],
+"Input",CellFrame -> 1,Background -> RGBColor[0.8784313725490196`,1,0.8784313725490196`],
+CellFrameColor -> RGBColor[0.8509803921568627`,0.8509803921568627`,0.8509803921568627`],
+CellLabel -> "In[5]:= ",ExpressionUUID -> "6091b0a1-5ea9-4961-aedc-b287f866456b"],Cell[
+BoxData[
+RowBox[{"2"," ",RowBox[{"Cos","[","x","]"}]," ",RowBox[{"Sin","[","x","]"}]}],StandardForm],
+"Output",CellLabel -> "Out[5]= ",ExpressionUUID -> "e259cb89-c3e6-4102-a7aa-ce9985a25055"]},
+Open],ExpressionUUID -> "0aef2552-2a8f-4036-8260-45c06def6ea4"],Cell[
+TextData[{"Simplifique"," ","express\[OTilde]es"," ","trigonom\[EAcute]tricas"," ","usando"," ","identidades",":"}],
+"Text",ExpressionUUID -> "558a4508-7dfd-4230-acd3-67cfc60a1f1c"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"Simplify","[",RowBox[{"2",RowBox[{"Cos","[","x","]"}]," ",RowBox[
+{"Sin","[","x","]"}]}],"]"}]],"Input",CellFrame -> 1,Background -> RGBColor[0.8784313725490196`,
+1,0.8784313725490196`],CellFrameColor -> RGBColor[0.8509803921568627`,0.8509803921568627`,
+0.8509803921568627`],CellLabel -> "In[6]:= ",ExpressionUUID -> "cefbd648-e825-4364-80d3-acda6cc99877"],Cell[
+BoxData[
+RowBox[{"Sin","[",RowBox[{"2"," ","x"}],"]"}],StandardForm],"Output",CellLabel -> "Out[6]= ",
+ExpressionUUID -> "f57b48b6-41f0-4af5-aeb6-8a2d33064729"]},Open],ExpressionUUID -> "dc4f0604-fa98-4c96-b0ee-e059cd809c69"],Cell[
+TextData[
+{"Fatorize"," ","polin\[OHat]mios"," ","trigonom\[EAcute]tricos",":"}],"Text",ExpressionUUID -> "876cad80-9558-467f-a6cb-e966ea7a1900"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"TrigFactor","[",RowBox[{RowBox[{RowBox[{"Cos","[","x","]"}],"^","2"}]," ","-"," ",RowBox[
+{RowBox[{"Sin","[","x","]"}],"^","2"}]}],"]"}]],"Input",CellFrame -> 1,Background -> RGBColor[
+0.8784313725490196`,1,0.8784313725490196`],CellFrameColor -> RGBColor[0.8509803921568627`,
+0.8509803921568627`,0.8509803921568627`],CellLabel -> "In[7]:= ",ExpressionUUID -> "d8068cdb-0dd3-43a5-a7ea-465bd720feec"],Cell[
+BoxData[
+RowBox[{"2"," ",RowBox[{"Sin","[",RowBox[{FractionBox["\[Pi]","4"],"-","x"}],"]"}]," ",RowBox[
+{"Sin","[",RowBox[{FractionBox["\[Pi]","4"],"+","x"}],"]"}]}],StandardForm],"Output",
+CellLabel -> "Out[7]= ",ExpressionUUID -> "9e74180c-5154-4b3b-80bf-75158e2762dd"]},
+Open],ExpressionUUID -> "3ffa53a2-0b13-4ceb-b2f7-c6d233dd5fcc"]},Open],ExpressionUUID -> "0d8ba9e1-89b3-4d33-a4db-ff440d0eec8d"],Cell[
+CellGroupData[
+{Cell[
+TextData[{"Equa\[CCedilla]\[OTilde]es"," ","Trigonom\[EAcute]tricas"}],"Section",
+ExpressionUUID -> "0bcb3811-670b-4b6a-b61c-34ffbb4731a5"],Cell[
+TextData[{"Use"," ","Solve"," ","para"," ","equa\[CCedilla]\[OTilde]es"," ","trigonom\[EAcute]tricas",":"}],
+"Text",ExpressionUUID -> "f810e674-83bf-42e1-83ed-b9093783fb8c"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"Solve","[",RowBox[{RowBox[{RowBox[{RowBox[{"Cos","[","x","]"}],"^","2"}]," ","+"," ",RowBox[
+{RowBox[{"Sin","[","x","]"}],"^","2"}]}]," ","=="," ","x"}],"]"}]],"Input",CellFrame -> 1,
+Background -> RGBColor[0.8784313725490196`,1,0.8784313725490196`],CellFrameColor -> RGBColor[
+0.8509803921568627`,0.8509803921568627`,0.8509803921568627`],CellLabel -> "In[8]:= ",
+ExpressionUUID -> "e4161223-a2d8-4892-b5fc-5407b9dc1726"],Cell[
+BoxData[RowBox[{"{",RowBox[
+{"{",RowBox[{"x","\[Rule]","1"}],"}"}],"}"}],StandardForm],"Output",CellLabel -> "Out[8]= ",
+ExpressionUUID -> "3ea7bdd1-b8a0-4f63-a92c-662c628d04b1"]},Open],ExpressionUUID -> "007d7c92-4aea-473d-987a-0d19fcde3a5d"],Cell[
+TextData[
+{"Especifique"," ","um"," ","dom\[IAcute]nio"," ","para"," ","solu\[CCedilla]\[OTilde]es",":"}],
+"Text",ExpressionUUID -> "45e8d797-9c4b-4d5e-a10b-4445dff57881"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"Solve","[",RowBox[{"{",RowBox[{RowBox[{RowBox[{"Tan","[","x","]"}]," ","=="," ","1"}],","," ",RowBox[
+{"0"," ","<"," ","x"," ","<"," ",RowBox[{"2"," ","Pi"}]}]}],"}"}],"]"}]],"Input",
+CellFrame -> 1,Background -> RGBColor[0.8784313725490196`,1,0.8784313725490196`],
+CellFrameColor -> RGBColor[0.8509803921568627`,0.8509803921568627`,0.8509803921568627`],
+CellLabel -> "In[9]:= ",ExpressionUUID -> "7c91f407-01bc-48d8-bd23-0db231feae15"],Cell[
+BoxData[
+RowBox[{"{",RowBox[{RowBox[{"{",RowBox[{"x","\[Rule]",FractionBox["\[Pi]","4"]}],"}"}],",",RowBox[
+{"{",RowBox[{"x","\[Rule]",FractionBox[RowBox[{"5"," ","\[Pi]"}],"4"]}],"}"}]}],"}"}],
+StandardForm],"Output",CellLabel -> "Out[9]= ",ExpressionUUID -> "a7561060-d883-441e-ae9d-d53de46ea274"]},
+Open],ExpressionUUID -> "ae9d3387-fd28-4ad7-af1e-af93cdd0115a"]},Open],ExpressionUUID -> "f9f76a43-92b9-4b9e-b274-43d6c4f6c6da"]},
+Open],ExpressionUUID -> "e6f8ae52-1878-47c7-b73e-e33a314c5d1d"]},StyleDefinitions -> "Default.nb",
+FrontEndVersion -> "12.3 for Wolfram Cloud 1.58.2.1 (May 19, 2021)"]

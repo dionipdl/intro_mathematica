@@ -1,0 +1,752 @@
+Notebook[{Cell[
+TextData[{"INTRODU\[CapitalCCedilla]\[CapitalATilde]O"," ","R\[CapitalAAcute]PIDA","\[NonBreakingSpace]","PARA"," ","ESTUDANTES"," ","DE"," ","MATEM\[CapitalAAcute]TICA"}],
+"Text",ExpressionUUID -> "fea452ba-f3fc-44ad-8894-29ef5e98c814"],Cell[
+CellGroupData[
+{Cell[
+TextData[{"Inserindo"," ","dados"}],"Title",ExpressionUUID -> "5c70cc18-2e5b-46f8-917f-ec54f5460852"],Cell[
+CellGroupData[
+{Cell[
+TextData[{"Fazendo"," ","c\[AAcute]lculos"," ","em"," ","notebooks"}],"Item",
+ExpressionUUID -> "c0c93b87-209c-46fb-8112-c90166cb9e64"],Cell[
+TextData[{"Entradas"," ","externas"," ","e"," ","de"," ","forma"," ","livre"}],
+"Item",ExpressionUUID -> "29aa42bd-1e10-432d-9ed4-c9e88fab49ef"],Cell[
+TextData[{"Manipula\[CCedilla]\[ATilde]o"," ","de"," ","listas"}],
+"Item",ExpressionUUID -> "fd0ec61d-1ac0-49fc-b7a9-65b7ba15635e"]},Open],ExpressionUUID -> "98aec8f7-b8cd-468e-883a-7ee0daa5fd2d"],Cell[
+CellGroupData[
+{Cell[
+TextData[{"Fazendo"," ","c\[AAcute]lculos"," ","em"," ","notebooks"}],"Section",
+ExpressionUUID -> "bd212240-772a-4de7-be2c-de2ad6070b67"],Cell[
+TextData[{"Pressione","\[NonBreakingSpace]","SHIFT","+","ENTER","\[NonBreakingSpace]","para"," ","calcular",".","\n","Depois"," ","de"," ","realizar"," ","o"," ","c\[AAcute]lculo",StyleBox[
+RowBox[{","," "}]],"a","\[NonBreakingSpace]","Barra"," ","de"," ","sugest\[OTilde]es","\[NonBreakingSpace]","mostrar\[AAcute]"," ","op\[CCedilla]\[OTilde]es"," ","para"," ","fazer"," ","mais"," ","c\[AAcute]lculos",":"}],
+"Text",ExpressionUUID -> "39983db7-157d-4cc5-97db-6951c1f6af16"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"2","+","2"}]],"Input",CellFrame -> 1,Background -> RGBColor[
+0.8784313725490196`,1,0.8784313725490196`],CellFrameColor -> RGBColor[0.8509803921568627`,
+0.8509803921568627`,0.8509803921568627`],CellLabel -> "In[1]:= ",ExpressionUUID -> "c5321465-4432-4375-879f-dec03706a5bd"],Cell[
+BoxData[
+"4",StandardForm],"Output",CellLabel -> "Out[1]= ",ExpressionUUID -> "2821f0bd-713d-4d9d-84d0-33cb13e99042"]},
+Open],ExpressionUUID -> "6844f2fa-471e-4490-80a4-de0635bea507"],Cell[
+TextData[{"In","[","n",StyleBox[
+RowBox[{"]"," "}]],"e","\[NonBreakingSpace]","Out","[","n",StyleBox[RowBox[{"]"," "}]],"identificam"," ","entradas"," ","e"," ","sa\[IAcute]das"," ","sucessivas"," ","de"," ","dados",":"}],
+"Text",ExpressionUUID -> "c7c1bb9d-6350-411d-947b-1383e16cf3c1"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"1","+","2","+","3"}]],"Input",CellFrame -> 1,Background -> RGBColor[
+0.8784313725490196`,1,0.8784313725490196`],CellFrameColor -> RGBColor[0.8509803921568627`,
+0.8509803921568627`,0.8509803921568627`],CellLabel -> "In[2]:= ",ExpressionUUID -> "03ec9264-2442-4885-96a8-5272fbfc297d"],Cell[
+BoxData[
+"6",StandardForm],"Output",CellLabel -> "Out[2]= ",ExpressionUUID -> "4d15d81e-1896-46d7-952b-1aa3c2512456"]},
+Open],ExpressionUUID -> "baf1b827-aac3-45a6-a005-e26ebc9d7774"],Cell[
+TextData[{"O"," ","s\[IAcute]mbolo",StyleBox[
+RowBox[{"\[NonBreakingSpace]","%","\[NonBreakingSpace]"}]],"refere-se"," ","\[AGrave]"," ","sa\[IAcute]da"," ","mais"," ","recente",":"}],
+"Text",ExpressionUUID -> "0196b126-cbe9-4773-ba08-fe956856a713"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"%","+","4"}]],"Input",CellFrame -> 1,Background -> RGBColor[
+0.8784313725490196`,1,0.8784313725490196`],CellFrameColor -> RGBColor[0.8509803921568627`,
+0.8509803921568627`,0.8509803921568627`],CellLabel -> "In[3]:= ",ExpressionUUID -> "d0e25228-1a21-48dc-bb77-54ecd37d05c1"],Cell[
+BoxData[
+"10",StandardForm],"Output",CellLabel -> "Out[3]= ",ExpressionUUID -> "161e398c-5a3c-4ba9-8815-108bd61416fd"]},
+Open],ExpressionUUID -> "fd065578-a026-4846-b6e2-6ce9ad2e2c61"],Cell[
+TextData[{"Os"," ","s\[IAcute]mbolos"," ","padr\[OTilde]es"," ","para"," ","opera\[CCedilla]\[OTilde]es"," ","matem\[AAcute]ticas",StyleBox[
+RowBox[{" ",":"}]]}],"Text",ExpressionUUID -> "16ff1fd0-133a-4d93-81bb-11c5774e5ae8"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"5"," ","+"," ",RowBox[{"2","*","3"}]," ","-"," ","7.5"}]],
+"Input",CellFrame -> 1,Background -> RGBColor[0.8784313725490196`,1,0.8784313725490196`],
+CellFrameColor -> RGBColor[0.8509803921568627`,0.8509803921568627`,0.8509803921568627`],
+CellLabel -> "In[4]:= ",ExpressionUUID -> "06f92047-befd-4f79-8613-1e5e9754caf9"],Cell[
+BoxData[
+"3.5`",StandardForm],"Output",CellLabel -> "Out[4]= ",ExpressionUUID -> "dfa1004d-7a36-4414-b6d9-0f2a10bdf306"]},
+Open],ExpressionUUID -> "7a7ea8b3-0954-4dfa-8bb1-edf90bba1844"],Cell[
+TextData[{"Par\[EHat]nteses",StyleBox[
+RowBox[{" "," "}]],"para"," ","n\[IAcute]veis"," ","de"," ","agrupamento",":"}],"Text",
+ExpressionUUID -> "7adba8c8-532e-46b6-8640-caf0a88a5759"],Cell[
+CellGroupData[{Cell[
+BoxData[
+RowBox[{RowBox[{"(",RowBox[{RowBox[{"(",RowBox[{"5"," ","-"," ","3"}],")"}],"^",RowBox[
+{"(",RowBox[{"1"," ","+"," ","2"}],")"}]}],")"}],"/","4"}]],"Input",CellFrame -> 1,
+Background -> RGBColor[0.8784313725490196`,1,0.8784313725490196`],CellFrameColor -> RGBColor[
+0.8509803921568627`,0.8509803921568627`,0.8509803921568627`],CellLabel -> "In[5]:= ",
+ExpressionUUID -> "a5c2ab37-9c7c-4132-908b-18bcf009742d"],Cell[
+BoxData["2",StandardForm],
+"Output",CellLabel -> "Out[5]= ",ExpressionUUID -> "0d7b4e65-1dd7-48f6-99ef-53eb7a7753e5"]},
+Open],ExpressionUUID -> "0ee2035e-5c90-41fc-94aa-4e75b5d60920"],Cell[
+TextData[{"Fun\[CCedilla]\[OTilde]es"," ","incorporadas",":"}],
+"Text",ExpressionUUID -> "1fdb9206-f852-4053-a964-4814dbb12fc9"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"GCD","[",RowBox[{"12",",","15"}],"]"}]],"Input",CellFrame -> 1,
+Background -> RGBColor[0.8784313725490196`,1,0.8784313725490196`],CellFrameColor -> RGBColor[
+0.8509803921568627`,0.8509803921568627`,0.8509803921568627`],CellLabel -> "In[6]:= ",
+ExpressionUUID -> "87716bd1-0d64-4339-9874-9a03204dc94b"],Cell[
+BoxData["3",StandardForm],
+"Output",CellLabel -> "Out[6]= ",ExpressionUUID -> "f24a6dcf-67fd-48ea-9eb2-ae1078a976aa"]},
+Open],ExpressionUUID -> "fc97e134-bc39-43cd-adc4-b17aac265af3"]},Open],ExpressionUUID -> "d840a731-06e1-4029-9e8f-5ce3f0748783"],Cell[
+CellGroupData[
+{Cell[
+TextData[{"Entradas"," ","externas"," ","e"," ","de"," ","forma"," ","livre"}],
+"Section",ExpressionUUID -> "88f47070-bac8-43c2-b0d5-14bbc2d2c494"],Cell[
+TextData[
+{"Entrada"," ","de"," ","linguagem"," ","natural",":"}],"Text",ExpressionUUID -> "f4889c18-7555-458b-9ac4-0080c6fecd5d"],Cell[
+CellGroupData[
+{Cell[
+TextData[{"plot"," ","sin","(","x",")"}],"WolframAlphaLong",CellFrame -> 1,
+Background -> RGBColor[0.8784313725490196`,1,0.8784313725490196`],CellFrameColor -> RGBColor[
+0.8509803921568627`,0.8509803921568627`,0.8509803921568627`],CellLabel -> "In[7]:= ",
+ExpressionUUID -> "42f482b7-41f8-45ed-8be9-f3f3b417c872"],Cell[
+BoxData[NamespaceBox[
+"WolframAlphaQueryResults",DynamicModuleBox[{Set[Typeset`q$$,"plot sin(x)"],Set[Typeset`opts$$,
+{AppearanceElements -> {"Warnings","Assumptions","Brand","Pods","PodMenus","Unsuccessful","Sources"}}],Set[
+Typeset`elements$$,{"Warnings","Assumptions","Brand","Pods","PodMenus","Unsuccessful","Sources"}],Set[
+Typeset`pod1$$,XMLElement["pod",{"title" -> "Input interpretation","scanner" -> "Identity","id" -> "Input","position" -> "100","error" -> "false","numsubpods" -> "1"},
+{XMLElement["subpod",{"title" -> ""},{XMLElement["minput",{},{"Plot[Sin[x], {x, -2 Pi, 2 Pi}]"}],XMLElement[
+"cell",{"compressed" -> False,"string" -> True},{Cell[
+BoxData[FormBox[TagBox[TagBox[
+GridBox[{{PaneBox[StyleBox[TagBox[GridBox[{{StyleBox["\"plot\"",{LineIndent -> 0,LineSpacing -> {0.9,0,1.5}}],RowBox[
+{"sin","(","x",")"}]}},GridBoxBackground -> {"Columns" -> {GrayLevel[0.949],None},"Rows" -> {{None}}},
+GridBoxItemSize -> {"Columns" -> {{Automatic}},"Rows" -> {{Automatic}}},ColumnsEqual -> False,
+RowsEqual -> False,GridBoxDividers -> {"Columns" -> {GrayLevel[0.84],GrayLevel[0.84],GrayLevel[
+0.84]},"Rows" -> {{GrayLevel[0.84]}},"RowsIndexed" -> {1 -> GrayLevel[0.84],-1 -> GrayLevel[
+0.84]}},GridBoxSpacings -> {"Columns" -> {2,2,2},"Rows" -> {{1}}},GridBoxAlignment -> {"Columns" -> {{Left}},"Rows" -> {{Baseline}}},
+AllowScriptLevelChange -> False,BaselinePosition -> 1],TagBoxWrapper["Separator" -> " | "]],
+LineSpacing -> {1,0,1.5},LineIndent -> 0],BaselinePosition -> Center]}},GridBoxItemSize -> {"Columns" -> {{Automatic}},"Rows" -> {{Automatic}}},
+ColumnsEqual -> False,RowsEqual -> False,GridBoxSpacings -> {"Columns" -> {{AbsoluteThickness[
+-1]}},"Rows" -> {{0}}},AllowScriptLevelChange -> False],TagBoxWrapper["Separator" -> " | "]],
+Function[PolynomialForm[Slot[1],TraditionalOrder -> False]]],TraditionalForm]],"Output",
+{Background -> None,GraphicsBoxOptions -> {DefaultBaseStyle -> {FontFamily -> "Times","Graphics"},DefaultAxesStyle -> Directive[
+GrayLevel[0,0.35],FontColor -> GrayLevel[0.25],FontOpacity -> 1,"GraphicsAxes"],DefaultFrameStyle -> Directive[
+GrayLevel[0,0.35],FontColor -> GrayLevel[0.25],FontOpacity -> 1,"GraphicsFrame"],DefaultFrameTicksStyle -> Directive[
+FontFamily -> "Times",FontSize -> 10,"GraphicsFrameTicks"],DefaultTicksStyle -> Directive[
+FontFamily -> "Times",FontSize -> 10,"GraphicsTicks"]},Graphics3DBoxOptions -> {DefaultBaseStyle -> {FontFamily -> "Times","Graphics3D"}}},
+NumberPoint -> ".",CellSize -> {550,Automatic},AutoStyleOptions -> {"HighlightFormattingErrors" -> False},
+RenderingOptions -> {"3DRenderingMethod" -> "BSPTreeOrDepthBuffer"}]}],XMLElement[
+"dataformats",{},{"plaintext,minput"}]}],XMLElement["expressiontypes",{"count" -> "1"},
+{"\n   ",XMLElement["expressiontype",{"name" -> "Grid"},{}],"\n  "}]}]],Set[Typeset`pod2$$,
+XMLElement["pod",{"title" -> "Plots","scanner" -> "Plot","id" -> "Plot","position" -> "200","error" -> "false","numsubpods" -> "2"},
+{XMLElement["subpod",{"title" -> ""},{XMLElement["minput",{},{"Plot[Sin[x], {x, -2 Pi, 2 Pi}]"}],XMLElement[
+"cell",{"compressed" -> True,"string" -> False},{Cell[
+BoxData[FormBox[TagBox[FormBox[
+StyleBox[DynamicModuleBox[{Set[CalculateUtilities`GraphicsUtilities`Private`max466$$,
+0.5],Set[CalculateUtilities`GraphicsUtilities`Private`min465$$,-0.5],Set[CalculateUtilities`GraphicsUtilities`Private`more$$,
+False],Set[Typeset`show$$,True],Set[Typeset`bookmarkList$$,{}],Set[Typeset`bookmarkMode$$,
+"Menu"],Typeset`animator$$,Set[Typeset`animvar$$,1],Set[Typeset`name$$,"\"untitled\""],Set[
+Typeset`specs$$,{{Hold[CalculateUtilities`GraphicsUtilities`Private`more$$],{False,True}},{{Hold[
+CalculateUtilities`GraphicsUtilities`Private`min465$$],-0.5,"min"},-1,1},{{Hold[CalculateUtilities`GraphicsUtilities`Private`max466$$],0.5,"max"},-1,1},{Hold[
+Style[Overlay[{Dynamic[RawBoxes[FEPrivate`FrontEndResource["WABitmaps","PodInfoBackground"]]],Pane[
+Column[{Grid[{{Manipulate`Place[1],Manipulate`Place[2]}}]}],ImageMargins -> {{20,30},{10,10}}]},
+{1,2},2,Alignment -> {Left,Top}]]],Manipulate`Dump`ThisIsNotAControl}}],Set[Typeset`size$$,
+Automatic],Set[Typeset`update$$,0],Set[Typeset`initDone$$,False],Set[Typeset`skipInitDone$$,
+False],Set[CalculateUtilities`GraphicsUtilities`Private`more$1303367$$,False],Set[
+CalculateUtilities`GraphicsUtilities`Private`min465$1303372$$,0],Set[CalculateUtilities`GraphicsUtilities`Private`max466$1303373$$,
+0]},DynamicBox[Manipulate`ManipulateBoxes[2,TraditionalForm,RuleDelayed["Variables",
+{Set[CalculateUtilities`GraphicsUtilities`Private`max466$$,0.5],Set[CalculateUtilities`GraphicsUtilities`Private`min465$$,
+-0.5],Set[CalculateUtilities`GraphicsUtilities`Private`more$$,False]}],RuleDelayed[
+"ControllerVariables",{Hold[CalculateUtilities`GraphicsUtilities`Private`more$$,CalculateUtilities`GraphicsUtilities`Private`more$1303367$$,
+False],Hold[CalculateUtilities`GraphicsUtilities`Private`min465$$,CalculateUtilities`GraphicsUtilities`Private`min465$1303372$$,
+0],Hold[CalculateUtilities`GraphicsUtilities`Private`max466$$,CalculateUtilities`GraphicsUtilities`Private`max466$1303373$$,
+0]}],RuleDelayed["OtherVariables",{Typeset`show$$,Typeset`bookmarkList$$,Typeset`bookmarkMode$$,Typeset`animator$$,Typeset`animvar$$,Typeset`name$$,Typeset`specs$$,Typeset`size$$,Typeset`update$$,Typeset`initDone$$,Typeset`skipInitDone$$}],
+RuleDelayed["Body",Quiet[Function[Null,CalculateUtilities`GraphicsUtilities`Private`post$1303341[
+Plot[SlotSequence[1],AspectRatio -> If[TrueQ[CalculateUtilities`GraphicsUtilities`Private`aspect],
+Automatic,Times[1,Power[GoldenRatio,-1]]]]],HoldAll][Sin[x],{x,If[NumericQ[CalculateUtilities`GraphicsUtilities`Private`min465$$],
+Function[Piecewise[{{Plus[0.0,Times[6.717007633450854,Tan[Times[1.5040801783846716,
+Slot[1]]]]],Less[Slot[1],0]}},Plus[0.0,Times[6.717007633450854,Tan[Times[1.5040801783846716,
+Slot[1]]]]]]][CalculateUtilities`GraphicsUtilities`Private`min465$$],Times[-2,Pi]],If[
+And[NumericQ[CalculateUtilities`GraphicsUtilities`Private`min465$$],NumericQ[CalculateUtilities`GraphicsUtilities`Private`max466$$]],
+Function[Piecewise[{{Plus[0.0,Times[6.717007633450854,Tan[Times[1.5040801783846716,
+Slot[1]]]]],Less[Slot[1],0]}},Plus[0.0,Times[6.717007633450854,Tan[Times[1.5040801783846716,
+Slot[1]]]]]]][If[Equal[CalculateUtilities`GraphicsUtilities`Private`min465$$,CalculateUtilities`GraphicsUtilities`Private`max466$$],
+Plus[CalculateUtilities`GraphicsUtilities`Private`min465$$,Times[Rational[1,250],
+Pi]],CalculateUtilities`GraphicsUtilities`Private`max466$$]],Times[2,Pi]]},LabelStyle -> {FontFamily -> "Bitstream Charter"},
+WorkingPrecision -> MachinePrecision,Ticks -> {{{Times[-2,Pi],Times[-2,Pi]},{Times[
+-1,Pi],Times[-1,Pi]},{0,0},{Pi,Pi},{Times[2,Pi],Times[2,Pi]}},Automatic},PlotRange -> Automatic,
+LabelStyle -> {},Ticks -> Automatic,ImageSize -> {330.0},AxesLabel -> {RawBoxes[FormBox[
+"x",TraditionalForm]],RawBoxes[FormBox["y",TraditionalForm]]},AxesLabel -> {RawBoxes[
+FormBox["x",TraditionalForm]],None}]]],RuleDelayed["Specifications",{{CalculateUtilities`GraphicsUtilities`Private`more$$,{False,True},ControlType -> None},{{CalculateUtilities`GraphicsUtilities`Private`min465$$,-0.5,"min"},-1,1,ImageSize -> Tiny,ControlPlacement -> 1},{{CalculateUtilities`GraphicsUtilities`Private`max466$$,0.5,"max"},-1,1,ImageSize -> Tiny,ControlPlacement -> 2},Style[
+Overlay[{Dynamic[RawBoxes[FEPrivate`FrontEndResource["WABitmaps","PodInfoBackground"]]],Pane[
+Column[{Grid[{{Manipulate`Place[1],Manipulate`Place[2]}}]}],ImageMargins -> {{20,30},{10,10}}]},
+{1,2},2,Alignment -> {Left,Top}]]}],RuleDelayed["Options",{ControlPlacement -> Bottom,FrameMargins -> {{0,0},{0,10}},Paneled -> False,AppearanceElements -> {},LabelStyle -> {"DialogStyle",FontColor -> GrayLevel[
+0.25]}}],RuleDelayed["DefaultOptions",{}]],SingleEvaluation -> True],RuleDelayed[
+Initialization,CompoundExpression[{ReleaseHold[Hold[CompoundExpression[SetDelayed[
+CalculateUtilities`GraphicsUtilities`Private`WACleanTicks[Pattern[CalculateUtilities`GraphicsUtilities`Private`ticks,
+Blank[]]],Module[{CalculateUtilities`GraphicsUtilities`Private`res,CalculateUtilities`GraphicsUtilities`Private`unitformat},
+CompoundExpression[Set[CalculateUtilities`GraphicsUtilities`Private`res,ReplaceAll[
+ReplaceAll[Part[DeleteCases[Replace[ReplaceAll[CalculateUtilities`GraphicsUtilities`Private`ticks,
+Alternatives[Style,UnitNumberForm,NumberForm] -> Function[Slot[1]]],RuleDelayed[Pattern[
+CalculateUtilities`GraphicsUtilities`Private`t,{PatternTest[BlankSequence[],NumberQ]}],
+Thread[{CalculateUtilities`GraphicsUtilities`Private`t,CalculateUtilities`GraphicsUtilities`Private`t}]]],
+{Blank[],"",BlankNullSequence[]}],All,Span[1,2]],RuleDelayed[Superscript[Pattern[
+CalculateUtilities`GraphicsUtilities`Private`b,Blank[Integer]],Pattern[CalculateUtilities`GraphicsUtilities`Private`p,
+Blank[Integer]]],Power[CalculateUtilities`GraphicsUtilities`Private`b,CalculateUtilities`GraphicsUtilities`Private`p]]],
+RuleDelayed[Row[{Pattern[CalculateUtilities`GraphicsUtilities`Private`a,BlankSequence[]]},
+"\[Times]"],Times[CalculateUtilities`GraphicsUtilities`Private`a]]]],If[MatchQ[Part[
+CalculateUtilities`GraphicsUtilities`Private`res,All,2],Condition[Pattern[CalculateUtilities`GraphicsUtilities`Private`quants,
+{Alternatives[BlankSequence[ShortQuantity],BlankSequence[Quantity]]}],Equal[Length[
+Union[Map[UnitObjectPart,CalculateUtilities`GraphicsUtilities`Private`quants]]],1]]],
+CompoundExpression[Set[CalculateUtilities`GraphicsUtilities`Private`unitformat,ToCDFQuantityFunction[
+Part[CalculateUtilities`GraphicsUtilities`Private`res,1,2]]],CalculateUtilities`GraphicsUtilities`Private`unitformat -> Thread[
+{Part[CalculateUtilities`GraphicsUtilities`Private`res,All,1],QuantityPart[Part[CalculateUtilities`GraphicsUtilities`Private`res,
+All,2],UnitObjectPart[Part[CalculateUtilities`GraphicsUtilities`Private`res,1,2]]]}]],
+CalculateUtilities`GraphicsUtilities`Private`res]]]],Set[Options[CalculateUtilities`GraphicsUtilities`Private`post$1303341],
+{"ReturnInteractiveTypes" -> False,"Nearest" -> Automatic}],SetDelayed[CalculateUtilities`GraphicsUtilities`Private`post$1303341[
+Pattern[CalculateUtilities`GraphicsUtilities`Private`g,Blank[Graphics]],OptionsPattern[]],
+Check[Module[{CalculateUtilities`GraphicsUtilities`Private`lines,CalculateUtilities`GraphicsUtilities`Private`pts,CalculateUtilities`GraphicsUtilities`Private`gg,CalculateUtilities`GraphicsUtilities`Private`type,CalculateUtilities`GraphicsUtilities`Private`b,CalculateUtilities`GraphicsUtilities`Private`l,CalculateUtilities`GraphicsUtilities`Private`t,CalculateUtilities`GraphicsUtilities`Private`r,CalculateUtilities`GraphicsUtilities`Private`oldepilog,CalculateUtilities`GraphicsUtilities`Private`range,CalculateUtilities`GraphicsUtilities`Private`gridlines,CalculateUtilities`GraphicsUtilities`Private`oldgridlines,Set[
+CalculateUtilities`GraphicsUtilities`Private`neareststyle,OptionValue["Nearest"]]},
+CompoundExpression[Set[CalculateUtilities`GraphicsUtilities`Private`oldepilog,Replace[
+ReplaceAll[Epilog,Options[CalculateUtilities`GraphicsUtilities`Private`g]],Epilog -> Sequence[]]],
+Switch[ReplaceAll[{Frame,Axes},Options[CalculateUtilities`GraphicsUtilities`Private`g]],
+{True,Blank[]},CompoundExpression[Set[CalculateUtilities`GraphicsUtilities`Private`type,
+Frame],Set[{CalculateUtilities`GraphicsUtilities`Private`b,CalculateUtilities`GraphicsUtilities`Private`l,CalculateUtilities`GraphicsUtilities`Private`t,CalculateUtilities`GraphicsUtilities`Private`r},
+CalculateUtilities`GraphicsUtilities`Private`ScaleCoordinatesToTicks[Frame,ReplaceAll[
+FrameTicks,Options[CalculateUtilities`GraphicsUtilities`Private`g]]]]],{Blank[],True},
+CompoundExpression[Set[CalculateUtilities`GraphicsUtilities`Private`type,Axes],Set[
+{CalculateUtilities`GraphicsUtilities`Private`b,CalculateUtilities`GraphicsUtilities`Private`l},
+CalculateUtilities`GraphicsUtilities`Private`ScaleCoordinatesToTicks[Axes,ReplaceAll[
+Ticks,Options[CalculateUtilities`GraphicsUtilities`Private`g]]]]],Blank[],Set[CalculateUtilities`GraphicsUtilities`Private`type,
+None]],If[And[SameQ[CalculateUtilities`GraphicsUtilities`Private`type,Frame],Or[Not[
+Or[SameQ[CalculateUtilities`GraphicsUtilities`Private`t,None],SameQ[CalculateUtilities`GraphicsUtilities`Private`b,
+CalculateUtilities`GraphicsUtilities`Private`t]]],Not[Or[SameQ[CalculateUtilities`GraphicsUtilities`Private`r,
+None],SameQ[CalculateUtilities`GraphicsUtilities`Private`l,CalculateUtilities`GraphicsUtilities`Private`r]]]]],
+Set[CalculateUtilities`GraphicsUtilities`Private`type,None]],If[TrueQ[OptionValue[
+"ReturnInteractiveTypes"]],Which[Or[SameQ[CalculateUtilities`GraphicsUtilities`Private`type,
+None],SameQ[CalculateUtilities`GraphicsUtilities`Private`b,None],SameQ[CalculateUtilities`GraphicsUtilities`Private`l,
+None]],{},FreeQ[CalculateUtilities`GraphicsUtilities`Private`g,Alternatives[Line,
+Point]],{},True,{"Tooltips","Coordinates"}],CompoundExpression[If[FreeQ[CalculateUtilities`GraphicsUtilities`Private`g,
+Alternatives[Line,Point]],Return[CalculateUtilities`GraphicsUtilities`Private`g]],
+Set[CalculateUtilities`GraphicsUtilities`Private`gg,Normal[CalculateUtilities`GraphicsUtilities`Private`g]],
+Set[CalculateUtilities`GraphicsUtilities`Private`pts,Partition[Flatten[Cases[Part[
+CalculateUtilities`GraphicsUtilities`Private`gg,1],RuleDelayed[Point[Pattern[CalculateUtilities`GraphicsUtilities`Private`a,
+Blank[]]],CalculateUtilities`GraphicsUtilities`Private`a],Infinity]],2]],If[Less[
+Length[CalculateUtilities`GraphicsUtilities`Private`pts],2],CompoundExpression[Set[
+CalculateUtilities`GraphicsUtilities`Private`lines,Cases[Part[CalculateUtilities`GraphicsUtilities`Private`gg,
+1],Blank[Line],Infinity]],If[SameQ[CalculateUtilities`GraphicsUtilities`Private`lines,
+{}],Return[CalculateUtilities`GraphicsUtilities`Private`g]],Set[CalculateUtilities`GraphicsUtilities`Private`pts,
+Flatten[Cases[CalculateUtilities`GraphicsUtilities`Private`lines,RuleDelayed[Line[
+Pattern[CalculateUtilities`GraphicsUtilities`Private`a,Blank[]]],CalculateUtilities`GraphicsUtilities`Private`a],
+Infinity],1]],If[SameQ[CalculateUtilities`GraphicsUtilities`Private`neareststyle,
+Automatic],CompoundExpression[If[CalculateUtilities`GraphicsUtilities`Private`orderedLines[
+CalculateUtilities`GraphicsUtilities`Private`lines],Set[CalculateUtilities`GraphicsUtilities`Private`neareststyle,
+"1D"],Set[CalculateUtilities`GraphicsUtilities`Private`neareststyle,"2D"]],Null]]],
+If[SameQ[CalculateUtilities`GraphicsUtilities`Private`neareststyle,Automatic],Set[
+CalculateUtilities`GraphicsUtilities`Private`neareststyle,"2D"]]],Set[CalculateUtilities`GraphicsUtilities`Private`range,
+Replace[ReplaceAll[PlotRange,Options[CalculateUtilities`GraphicsUtilities`Private`g]],
+RuleDelayed[Except[{{PatternTest[Blank[],NumberQ],PatternTest[Blank[],NumberQ]},{PatternTest[
+Blank[],NumberQ],PatternTest[Blank[],NumberQ]}}],{Through[{Min,Max}[Part[CalculateUtilities`GraphicsUtilities`Private`pts,
+All,1]]],Through[{Min,Max}[Part[CalculateUtilities`GraphicsUtilities`Private`pts,
+All,2]]]}]]],Set[CalculateUtilities`GraphicsUtilities`Private`b,CalculateUtilities`GraphicsUtilities`Private`RefineCoordinateFunction[
+CalculateUtilities`GraphicsUtilities`Private`b,First[CalculateUtilities`GraphicsUtilities`Private`range],
+Part[CalculateUtilities`GraphicsUtilities`Private`pts,All,1]]],Set[CalculateUtilities`GraphicsUtilities`Private`l,
+CalculateUtilities`GraphicsUtilities`Private`RefineCoordinateFunction[CalculateUtilities`GraphicsUtilities`Private`l,
+Last[CalculateUtilities`GraphicsUtilities`Private`range],Part[CalculateUtilities`GraphicsUtilities`Private`pts,
+All,2]]],Set[CalculateUtilities`GraphicsUtilities`Private`oldgridlines,ReplaceAll[
+GridLines,Options[CalculateUtilities`GraphicsUtilities`Private`g]]],Set[CalculateUtilities`GraphicsUtilities`Private`gridlines,
+With[{Set[CalculateUtilities`GraphicsUtilities`Private`gray,GrayLevel[0.7]]},Replace[
+CalculateUtilities`GraphicsUtilities`Private`oldgridlines,{RuleDelayed[Pattern[CalculateUtilities`GraphicsUtilities`Private`a,
+{Blank[List],Blank[List]}],Dynamic[Join[CalculateUtilities`GraphicsUtilities`Private`a,
+Replace[MousePosition[{"Graphics",Graphics},None],{None -> {{},{}},RuleDelayed[{Pattern[
+CalculateUtilities`GraphicsUtilities`Private`x,Blank[]],Pattern[CalculateUtilities`GraphicsUtilities`Private`y,
+Blank[]]},{{{CalculateUtilities`GraphicsUtilities`Private`x,CalculateUtilities`GraphicsUtilities`Private`gray}},{{CalculateUtilities`GraphicsUtilities`Private`y,CalculateUtilities`GraphicsUtilities`Private`gray}}}]}],
+2]]],RuleDelayed[{Pattern[CalculateUtilities`GraphicsUtilities`Private`a,Blank[List]],Automatic},
+With[{Set[CalculateUtilities`GraphicsUtilities`Private`divisions,{CalculateUtilities`GraphicsUtilities`Private`a,FindDivisions[
+Last[CalculateUtilities`GraphicsUtilities`Private`range],7]}]},Dynamic[Join[CalculateUtilities`GraphicsUtilities`Private`divisions,
+Replace[MousePosition[{"Graphics",Graphics},None],{None -> {{},{}},RuleDelayed[{Pattern[
+CalculateUtilities`GraphicsUtilities`Private`x,Blank[]],Pattern[CalculateUtilities`GraphicsUtilities`Private`y,
+Blank[]]},{{{CalculateUtilities`GraphicsUtilities`Private`x,CalculateUtilities`GraphicsUtilities`Private`gray}},{{CalculateUtilities`GraphicsUtilities`Private`y,CalculateUtilities`GraphicsUtilities`Private`gray}}}]}],
+2]]]],Blank[] -> Dynamic[Map[Function[{{Slot[1],CalculateUtilities`GraphicsUtilities`Private`gray}}],
+MousePosition[{"Graphics",Graphics},None]]]}]]],If[Or[SameQ[CalculateUtilities`GraphicsUtilities`Private`type,
+None],SameQ[CalculateUtilities`GraphicsUtilities`Private`b,None],SameQ[CalculateUtilities`GraphicsUtilities`Private`l,
+None]],Show[CalculateUtilities`GraphicsUtilities`Private`g,GridLines -> CalculateUtilities`GraphicsUtilities`Private`gridlines,
+If[MatchQ[CalculateUtilities`GraphicsUtilities`Private`oldgridlines,Alternatives[
+None,GridLines]],Method -> {"GridLinesInFront" -> True},Apply[Sequence,{}]]],With[
+{Set[CalculateUtilities`GraphicsUtilities`Private`nf,If[SameQ[CalculateUtilities`GraphicsUtilities`Private`neareststyle,
+"1D"],With[{Set[CalculateUtilities`GraphicsUtilities`Private`n,Nearest[Part[CalculateUtilities`GraphicsUtilities`Private`pts,
+All,1] -> CalculateUtilities`GraphicsUtilities`Private`pts]]},Function[CalculateUtilities`GraphicsUtilities`Private`n[
+Part[Slot[1],1]]]],With[{Set[CalculateUtilities`GraphicsUtilities`Private`n,Nearest[
+Transpose[Times[Transpose[CalculateUtilities`GraphicsUtilities`Private`pts],Power[
+Abs[Apply[Subtract,CalculateUtilities`GraphicsUtilities`Private`range,{1}]],-1]]] -> CalculateUtilities`GraphicsUtilities`Private`pts]],Set[
+CalculateUtilities`GraphicsUtilities`Private`scale,Abs[Apply[Subtract,CalculateUtilities`GraphicsUtilities`Private`range,
+{1}]]]},Function[CalculateUtilities`GraphicsUtilities`Private`n[Times[Slot[1],Power[
+CalculateUtilities`GraphicsUtilities`Private`scale,-1]]]]]]],Set[CalculateUtilities`GraphicsUtilities`Private`left,
+CalculateUtilities`GraphicsUtilities`Private`l],Set[CalculateUtilities`GraphicsUtilities`Private`bottom,
+CalculateUtilities`GraphicsUtilities`Private`b]},Show[CalculateUtilities`GraphicsUtilities`Private`g,
+GridLines -> CalculateUtilities`GraphicsUtilities`Private`gridlines,If[MatchQ[CalculateUtilities`GraphicsUtilities`Private`oldgridlines,
+Alternatives[None,GridLines]],Method -> {"GridLinesInFront" -> True},Apply[Sequence,
+{}]],Epilog -> {CalculateUtilities`GraphicsUtilities`Private`oldepilog,Dynamic[DynamicModule[
+{Set[CalculateUtilities`GraphicsUtilities`Private`pt,CalculateUtilities`GraphicsUtilities`Private`nf[
+MousePosition[{"Graphics",Graphics},{0,0}]]],Set[CalculateUtilities`GraphicsUtilities`Private`scaled,
+MousePosition[{"GraphicsScaled",Graphics},None]]},If[SameQ[CalculateUtilities`GraphicsUtilities`Private`scaled,
+None],{},{Text[Style[Row[{CalculateUtilities`GraphicsUtilities`Private`bottom[Part[
+CalculateUtilities`GraphicsUtilities`Private`pt,1,1]],CalculateUtilities`GraphicsUtilities`Private`left[
+Part[CalculateUtilities`GraphicsUtilities`Private`pt,1,2]]},","],12],Part[CalculateUtilities`GraphicsUtilities`Private`pt,
+1],{Times[1.5,Sign[Plus[Part[CalculateUtilities`GraphicsUtilities`Private`scaled,
+1],-0.5]]],0},Background -> White],AbsolutePointSize[7],Point[CalculateUtilities`GraphicsUtilities`Private`pt],White,AbsolutePointSize[
+5],Point[CalculateUtilities`GraphicsUtilities`Private`pt]}]]]}]]]]]]],CalculateUtilities`GraphicsUtilities`Private`g]],
+SetDelayed[CalculateUtilities`GraphicsUtilities`Private`post$1303341[Pattern[CalculateUtilities`GraphicsUtilities`Private`g,
+Blank[]],BlankNullSequence[]],CalculateUtilities`GraphicsUtilities`Private`g],SetDelayed[
+CalculateUtilities`GraphicsUtilities`Private`orderedLines[{Pattern[CalculateUtilities`GraphicsUtilities`Private`l,
+BlankSequence[Line]]}],Module[{CalculateUtilities`GraphicsUtilities`Private`ordered,CalculateUtilities`GraphicsUtilities`Private`intervals},
+CompoundExpression[Set[CalculateUtilities`GraphicsUtilities`Private`ordered,Apply[
+And,Map[Function[OrderedQ[Part[Slot[1],1,All,1]]],Hold[CalculateUtilities`GraphicsUtilities`Private`l]]]],
+If[Not[TrueQ[CalculateUtilities`GraphicsUtilities`Private`ordered]],Return[False]],
+Set[CalculateUtilities`GraphicsUtilities`Private`intervals,Part[{CalculateUtilities`GraphicsUtilities`Private`l},
+All,1,{1,-1},1]],SameQ[Length[Apply[Interval,CalculateUtilities`GraphicsUtilities`Private`intervals]],
+Length[CalculateUtilities`GraphicsUtilities`Private`intervals]]]]],Set[CalculateUtilities`GraphicsUtilities`Private`ScaleCoordinatesToTicks[
+Frame,Alternatives[Automatic,FrameTicks]],{Identity,Identity,Identity,Identity}],
+SetDelayed[CalculateUtilities`GraphicsUtilities`Private`ScaleCoordinatesToTicks[Frame,
+{Pattern[CalculateUtilities`GraphicsUtilities`Private`b,Blank[]],Pattern[CalculateUtilities`GraphicsUtilities`Private`l,
+Blank[]],Pattern[CalculateUtilities`GraphicsUtilities`Private`t,Blank[]],Pattern[
+CalculateUtilities`GraphicsUtilities`Private`r,Blank[]]}],Map[CalculateUtilities`GraphicsUtilities`Private`TicksToFunction,
+{CalculateUtilities`GraphicsUtilities`Private`b,CalculateUtilities`GraphicsUtilities`Private`l,CalculateUtilities`GraphicsUtilities`Private`t,CalculateUtilities`GraphicsUtilities`Private`r}]],
+SetDelayed[CalculateUtilities`GraphicsUtilities`Private`ScaleCoordinatesToTicks[Frame,
+{{Pattern[CalculateUtilities`GraphicsUtilities`Private`l,Blank[]],Pattern[CalculateUtilities`GraphicsUtilities`Private`r,
+Blank[]]},{Pattern[CalculateUtilities`GraphicsUtilities`Private`b,Blank[]],Pattern[
+CalculateUtilities`GraphicsUtilities`Private`t,Blank[]]}}],Map[CalculateUtilities`GraphicsUtilities`Private`TicksToFunction,
+{CalculateUtilities`GraphicsUtilities`Private`b,CalculateUtilities`GraphicsUtilities`Private`l,CalculateUtilities`GraphicsUtilities`Private`t,CalculateUtilities`GraphicsUtilities`Private`r}]],
+Set[CalculateUtilities`GraphicsUtilities`Private`ScaleCoordinatesToTicks[Frame,Blank[]],
+{None,None,None,None}],Set[CalculateUtilities`GraphicsUtilities`Private`ScaleCoordinatesToTicks[
+Axes,Alternatives[Automatic,Ticks]],{Identity,Identity}],SetDelayed[CalculateUtilities`GraphicsUtilities`Private`ScaleCoordinatesToTicks[
+Axes,{Pattern[CalculateUtilities`GraphicsUtilities`Private`h,Blank[]],Pattern[CalculateUtilities`GraphicsUtilities`Private`v,
+Blank[]]}],Map[CalculateUtilities`GraphicsUtilities`Private`TicksToFunction,{CalculateUtilities`GraphicsUtilities`Private`h,CalculateUtilities`GraphicsUtilities`Private`v}]],
+Set[CalculateUtilities`GraphicsUtilities`Private`ScaleCoordinatesToTicks[Axes,Blank[]],
+{None,None}],SetDelayed[CalculateUtilities`GraphicsUtilities`Private`CDFCleanTicks[
+Pattern[CalculateUtilities`GraphicsUtilities`Private`ticks,Blank[]]],ReplaceAll[ReplaceAll[
+Part[DeleteCases[ReplaceAll[CalculateUtilities`GraphicsUtilities`Private`ticks,Alternatives[
+Style,NumberForm] -> Function[Slot[1]]],{Blank[],"",BlankNullSequence[]}],All,Span[
+1,2]],RuleDelayed[Superscript[Pattern[CalculateUtilities`GraphicsUtilities`Private`b,
+Blank[Integer]],Pattern[CalculateUtilities`GraphicsUtilities`Private`p,Blank[Integer]]],
+Power[CalculateUtilities`GraphicsUtilities`Private`b,CalculateUtilities`GraphicsUtilities`Private`p]]],
+RuleDelayed[Row[{Pattern[CalculateUtilities`GraphicsUtilities`Private`a,BlankSequence[]]},
+"\[Times]"],Times[CalculateUtilities`GraphicsUtilities`Private`a]]]],SetDelayed[CalculateUtilities`GraphicsUtilities`Private`TicksToFunction[
+Pattern[CalculateUtilities`GraphicsUtilities`Private`ticks$,Blank[]]],CalculateUtilities`GraphicsUtilities`Private`iTicksToFunction[
+CalculateUtilities`GraphicsUtilities`Private`WACleanTicks[CalculateUtilities`GraphicsUtilities`Private`ticks$]]],
+Set[CalculateUtilities`GraphicsUtilities`Private`TicksToFunction[None],None],Set[
+CalculateUtilities`GraphicsUtilities`Private`TicksToFunction[False],None],Set[CalculateUtilities`GraphicsUtilities`Private`TicksToFunction[
+True],None],Set[CalculateUtilities`GraphicsUtilities`Private`TicksToFunction[Automatic],
+Identity],Set[CalculateUtilities`GraphicsUtilities`Private`TicksToFunction[All],Identity],
+SetDelayed[CalculateUtilities`GraphicsUtilities`Private`iTicksToFunction[Pattern[
+CalculateUtilities`GraphicsUtilities`Private`func,Blank[]] -> Pattern[CalculateUtilities`GraphicsUtilities`Private`ticks,
+Blank[]]],Replace[CalculateUtilities`GraphicsUtilities`Private`iTicksToFunction[CalculateUtilities`GraphicsUtilities`Private`ticks],
+RuleDelayed[Pattern[CalculateUtilities`GraphicsUtilities`Private`f,Except[None]],
+Composition[CalculateUtilities`GraphicsUtilities`Private`func,CalculateUtilities`GraphicsUtilities`Private`f]]]],
+Set[CalculateUtilities`GraphicsUtilities`Private`iTicksToFunction[{}],None],SetDelayed[
+CalculateUtilities`GraphicsUtilities`Private`iTicksToFunction[Pattern[CalculateUtilities`GraphicsUtilities`Private`ticks,
+{Repeated[{Blank[Integer],Blank[String]}]}]],Which[Quiet[MatchQ[Apply[SameQ,Map[Function[
+Part[DateList[Slot[1]],Span[2,All]]],CalculateUtilities`GraphicsUtilities`Private`ticks,
+{2}],{1}],{Repeated[True]}]],DateString,Apply[And,StringMatchQ[Part[CalculateUtilities`GraphicsUtilities`Private`ticks,
+All,2],NumberString]],CalculateUtilities`GraphicsUtilities`Private`iTicksToFunction[
+Transpose[{Part[CalculateUtilities`GraphicsUtilities`Private`ticks,All,1],ToExpression[
+Part[CalculateUtilities`GraphicsUtilities`Private`ticks,All,2]]}]],True,None]],SetDelayed[
+CalculateUtilities`GraphicsUtilities`Private`iTicksToFunction[Pattern[CalculateUtilities`GraphicsUtilities`Private`ticks,
+{Repeated[{PatternTest[Blank[],NumericQ],PatternTest[Blank[],NumericQ]}]}]],Which[
+MatchQ[Apply[Equal,CalculateUtilities`GraphicsUtilities`Private`ticks,{1}],{Repeated[
+True]}],Identity,MatchQ[Apply[Function[Equal[Slot[1],Log[Slot[2]]]],CalculateUtilities`GraphicsUtilities`Private`ticks,
+{1}],{Repeated[True]}],Exp,TrueQ[Quiet[Apply[Equal,Apply[Divide,Plus[Transpose[Rest[
+CalculateUtilities`GraphicsUtilities`Private`ticks]],Times[-1,Part[CalculateUtilities`GraphicsUtilities`Private`ticks,
+1]]]]]]],With[{Set[CalculateUtilities`GraphicsUtilities`Private`slope,Apply[Divide,
+Apply[Subtract,Part[CalculateUtilities`GraphicsUtilities`Private`ticks,{-1,1}]]]]},
+Function[SetPrecision[Plus[Times[Plus[Slot[1],Times[-1,Part[CalculateUtilities`GraphicsUtilities`Private`ticks,
+1,1]]],Power[CalculateUtilities`GraphicsUtilities`Private`slope,-1]],Part[CalculateUtilities`GraphicsUtilities`Private`ticks,
+1,2]],3]]],True,None]],Set[CalculateUtilities`GraphicsUtilities`Private`iTicksToFunction[
+Blank[]],None],SetDelayed[CalculateUtilities`GraphicsUtilities`Private`RefineCoordinateFunction[
+Pattern[CalculateUtilities`GraphicsUtilities`Private`type,Blank[]],BlankNullSequence[]],
+CalculateUtilities`GraphicsUtilities`Private`type],SetDelayed[CalculateUtilities`GraphicsUtilities`Private`RefineCoordinateFunction[
+Identity,{Pattern[CalculateUtilities`GraphicsUtilities`Private`min,Blank[]],Pattern[
+CalculateUtilities`GraphicsUtilities`Private`max,Blank[]]},Blank[]],With[{Set[CalculateUtilities`GraphicsUtilities`Private`nf,
+CalculateUtilities`GraphicsUtilities`Private`numberForm],Set[CalculateUtilities`GraphicsUtilities`Private`acc,
+Floor[Plus[Max[Ceiling[FullSimplify[Plus[Log[10,Max[Abs[{CalculateUtilities`GraphicsUtilities`Private`min,CalculateUtilities`GraphicsUtilities`Private`max}]]],
+Times[-1,Log[10,Times[Plus[CalculateUtilities`GraphicsUtilities`Private`max,Times[
+-1,CalculateUtilities`GraphicsUtilities`Private`min]],Power[100,-1]]]]]]],3],Times[
+-1,RealExponent[Max[Abs[{CalculateUtilities`GraphicsUtilities`Private`min,CalculateUtilities`GraphicsUtilities`Private`max}]]]]]]]},
+Function[CalculateUtilities`GraphicsUtilities`Private`nf[Slot[1],CalculateUtilities`GraphicsUtilities`Private`acc]]]],
+SetDelayed[CalculateUtilities`GraphicsUtilities`Private`RefineCoordinateFunction[
+Exp,{Pattern[CalculateUtilities`GraphicsUtilities`Private`min,Blank[]],Pattern[CalculateUtilities`GraphicsUtilities`Private`max,
+Blank[]]},Blank[]],With[{Set[CalculateUtilities`GraphicsUtilities`Private`prec,Max[
+Ceiling[FullSimplify[Plus[Log[10,Max[Abs[{CalculateUtilities`GraphicsUtilities`Private`min,CalculateUtilities`GraphicsUtilities`Private`max}]]],
+Times[-1,Log[10,Times[Plus[CalculateUtilities`GraphicsUtilities`Private`max,Times[
+-1,CalculateUtilities`GraphicsUtilities`Private`min]],Power[100,-1]]]]]]],3]]},Function[
+Quiet[RawBoxes[ToBoxes[NumberForm[Exp[Slot[1]],CalculateUtilities`GraphicsUtilities`Private`prec]]]]]]],
+SetDelayed[CalculateUtilities`GraphicsUtilities`Private`RefineCoordinateFunction[
+DateString,{Pattern[CalculateUtilities`GraphicsUtilities`Private`min,Blank[]],Pattern[
+CalculateUtilities`GraphicsUtilities`Private`max,Blank[]]},Pattern[CalculateUtilities`GraphicsUtilities`Private`pts,
+Blank[]]],Module[{CalculateUtilities`GraphicsUtilities`Private`dates,CalculateUtilities`GraphicsUtilities`Private`spec},
+CompoundExpression[Set[CalculateUtilities`GraphicsUtilities`Private`dates,Map[DateList,
+CalculateUtilities`GraphicsUtilities`Private`pts]],Set[CalculateUtilities`GraphicsUtilities`Private`spec,
+Switch[Map[Length,Map[Union,Transpose[CalculateUtilities`GraphicsUtilities`Private`dates]]],
+{Blank[],1,1,BlankSequence[]},{"Year"},{Blank[],Blank[],1,BlankSequence[]},{"MonthNameShort"," ","Year"},
+Blank[],{"DayShort"," ","MonthNameShort"," ","Year"}]],If[Greater[Times[Plus[CalculateUtilities`GraphicsUtilities`Private`max,
+Times[-1,CalculateUtilities`GraphicsUtilities`Private`min]],Power[31536000,-1]],25],
+Set[CalculateUtilities`GraphicsUtilities`Private`spec,{"Year"}]],With[{Set[CalculateUtilities`GraphicsUtilities`Private`s,
+CalculateUtilities`GraphicsUtilities`Private`spec]},Function[DateString[Slot[1],CalculateUtilities`GraphicsUtilities`Private`s]]]]]],
+Set[CalculateUtilities`GraphicsUtilities`Private`numberForm,Function[{CalculateUtilities`GraphicsUtilities`Private`a,CalculateUtilities`GraphicsUtilities`Private`acc},
+Quiet[RawBoxes[ToBoxes[NumberForm[CalculateUtilities`GraphicsUtilities`Private`a,
+Max[1,Ceiling[Plus[RealExponent[CalculateUtilities`GraphicsUtilities`Private`a],CalculateUtilities`GraphicsUtilities`Private`acc]]],
+ExponentFunction -> Function[Null],NumberFormat -> Function[StringReplace[Slot[1],
+StringExpression[Pattern[CalculateUtilities`GraphicsUtilities`Private`s,BlankSequence[]],
+".",EndOfString] -> CalculateUtilities`GraphicsUtilities`Private`s]]]]]]]]]]],ReleaseHold[
+Uncompress["6:eJztVm1v0zAQbinv7/APkPiMGGUfkYAOxqQBJSnf68WX1MK1g+1sgz8PPrtJmrWrFNMBmtIPp/rSPL577rnrPTmSUdrv9Xr6qjUfJKfpDTw9tmYk57ksBH13mivQmkmRXsFnt62JwewBJz+Aet91a95LNSfGn1/h+4QnBScGvhrGmWGgp/uK5DOW6NozVuzY/mTKZUI4+wlPd4bPh8PdXQ+DsYyJMaCEHraFzGeKaEh7CHTNmreciG/++Kg8fio4j+F7ASIB/cB6J4pQCyMF4ZhP8K2Xm6m7mJghghJFL5wmJ89R2wu0UUxkE5jn+Mb5ZO20BSYq056beyU3mxTkw7+JD2TsYvIel7Q7OwLDwrhk9J2V1T/nboDn123hlTxZTxzm94Yjb8SwY9CrdD5rXSfPSNW1LvoFVxc1X7Ya5PlTpv5fOmTarIbxom0YMD+yNV6vvVX4l23hZY5dvxD3fWs+e0cJuG44VIL7KGnBF1E0Ux54ibZPV+fW4THuVHzH6AypYIUT2TjLfnH98bACrzeFGGs33YJ0RD0DIsjBuqjjdo9lzIxmRJHEAi+u65dNNpF1KAF3tq89E5TZAeYJ2bQ8oTlIl+pOTDL78kfFreRypsmQ9wNhIAO1UfS3sD7KkivoRAZGEuMFTb0Gc1glNSYqWPaDEiTOiWAIyX7Zj/vmHy5XAqnaV6gu5VkcuNKchifRLwt8CCIzs+aOHTi6gtsWs4nkSa26iKXp8rTZHtP9JtONG5oDPZSE0JKED/RuU+g2hb+6Kazswd2a0K0J3ZrQrQndmvD/rgkuYvxX+g2PBLg+"]]},
+Set[Typeset`initDone$$,True]]],RuleDelayed[DynamicModuleValues,{}],RuleDelayed[Deinitialization,
+None],RuleDelayed[UntrackedVariables,{Typeset`size$$}],SynchronousInitialization -> True,
+RuleDelayed[UnsavedVariables,{Typeset`initDone$$}],RuleDelayed[UndoTrackedVariables,
+{Typeset`show$$,Typeset`bookmarkMode$$}]],"Manipulate",Deployed -> True,StripOnInput -> False],
+TraditionalForm],Manipulate`InterpretManipulate[1]],TraditionalForm]],"Output",{Background -> None,GraphicsBoxOptions -> {DefaultBaseStyle -> {FontFamily -> "Times","Graphics"},DefaultAxesStyle -> Directive[
+GrayLevel[0,0.35],FontColor -> GrayLevel[0.25],FontOpacity -> 1,"GraphicsAxes"],DefaultFrameStyle -> Directive[
+GrayLevel[0,0.35],FontColor -> GrayLevel[0.25],FontOpacity -> 1,"GraphicsFrame"],DefaultFrameTicksStyle -> Directive[
+FontFamily -> "Times",FontSize -> 10,"GraphicsFrameTicks"],DefaultTicksStyle -> Directive[
+FontFamily -> "Times",FontSize -> 10,"GraphicsTicks"]},Graphics3DBoxOptions -> {DefaultBaseStyle -> {FontFamily -> "Times","Graphics3D"}}},
+NumberPoint -> ".",CellSize -> {550,Automatic},AutoStyleOptions -> {"HighlightFormattingErrors" -> False},
+RenderingOptions -> {"3DRenderingMethod" -> "BSPTreeOrDepthBuffer"}]}],XMLElement[
+"dataformats",{},{"minput"}]}],XMLElement["subpod",{"title" -> ""},{XMLElement["minput",
+{},{"Plot[Sin[x], {x, -8 Pi, 8 Pi}]"}],XMLElement["cell",{"compressed" -> True,"string" -> False},
+{Cell[
+BoxData[FormBox[TagBox[FormBox[StyleBox[DynamicModuleBox[{Set[CalculateUtilities`GraphicsUtilities`Private`max468$$,
+0.5],Set[CalculateUtilities`GraphicsUtilities`Private`min467$$,-0.5],Set[CalculateUtilities`GraphicsUtilities`Private`more$$,
+False],Set[Typeset`show$$,True],Set[Typeset`bookmarkList$$,{}],Set[Typeset`bookmarkMode$$,
+"Menu"],Typeset`animator$$,Set[Typeset`animvar$$,1],Set[Typeset`name$$,"\"untitled\""],Set[
+Typeset`specs$$,{{Hold[CalculateUtilities`GraphicsUtilities`Private`more$$],{False,True}},{{Hold[
+CalculateUtilities`GraphicsUtilities`Private`min467$$],-0.5,"min"},-1,1},{{Hold[CalculateUtilities`GraphicsUtilities`Private`max468$$],0.5,"max"},-1,1},{Hold[
+Style[Overlay[{Dynamic[RawBoxes[FEPrivate`FrontEndResource["WABitmaps","PodInfoBackground"]]],Pane[
+Column[{Grid[{{Manipulate`Place[1],Manipulate`Place[2]}}]}],ImageMargins -> {{20,30},{10,10}}]},
+{1,2},2,Alignment -> {Left,Top}]]],Manipulate`Dump`ThisIsNotAControl}}],Set[Typeset`size$$,
+Automatic],Set[Typeset`update$$,0],Set[Typeset`initDone$$,False],Set[Typeset`skipInitDone$$,
+False],Set[CalculateUtilities`GraphicsUtilities`Private`more$1303465$$,False],Set[
+CalculateUtilities`GraphicsUtilities`Private`min467$1303466$$,0],Set[CalculateUtilities`GraphicsUtilities`Private`max468$1303467$$,
+0]},DynamicBox[Manipulate`ManipulateBoxes[2,TraditionalForm,RuleDelayed["Variables",
+{Set[CalculateUtilities`GraphicsUtilities`Private`max468$$,0.5],Set[CalculateUtilities`GraphicsUtilities`Private`min467$$,
+-0.5],Set[CalculateUtilities`GraphicsUtilities`Private`more$$,False]}],RuleDelayed[
+"ControllerVariables",{Hold[CalculateUtilities`GraphicsUtilities`Private`more$$,CalculateUtilities`GraphicsUtilities`Private`more$1303465$$,
+False],Hold[CalculateUtilities`GraphicsUtilities`Private`min467$$,CalculateUtilities`GraphicsUtilities`Private`min467$1303466$$,
+0],Hold[CalculateUtilities`GraphicsUtilities`Private`max468$$,CalculateUtilities`GraphicsUtilities`Private`max468$1303467$$,
+0]}],RuleDelayed["OtherVariables",{Typeset`show$$,Typeset`bookmarkList$$,Typeset`bookmarkMode$$,Typeset`animator$$,Typeset`animvar$$,Typeset`name$$,Typeset`specs$$,Typeset`size$$,Typeset`update$$,Typeset`initDone$$,Typeset`skipInitDone$$}],
+RuleDelayed["Body",Quiet[Function[Null,CalculateUtilities`GraphicsUtilities`Private`post$1303444[
+Plot[SlotSequence[1],AspectRatio -> If[TrueQ[CalculateUtilities`GraphicsUtilities`Private`aspect],
+Automatic,Times[1,Power[GoldenRatio,-1]]]]],HoldAll][Sin[x],{x,If[NumericQ[CalculateUtilities`GraphicsUtilities`Private`min467$$],
+Function[Piecewise[{{Plus[0.0,Times[26.868030533803417,Tan[Times[1.5040801783846716,
+Slot[1]]]]],Less[Slot[1],0]}},Plus[0.0,Times[26.868030533803417,Tan[Times[1.5040801783846716,
+Slot[1]]]]]]][CalculateUtilities`GraphicsUtilities`Private`min467$$],Times[-8,Pi]],If[
+And[NumericQ[CalculateUtilities`GraphicsUtilities`Private`min467$$],NumericQ[CalculateUtilities`GraphicsUtilities`Private`max468$$]],
+Function[Piecewise[{{Plus[0.0,Times[26.868030533803417,Tan[Times[1.5040801783846716,
+Slot[1]]]]],Less[Slot[1],0]}},Plus[0.0,Times[26.868030533803417,Tan[Times[1.5040801783846716,
+Slot[1]]]]]]][If[Equal[CalculateUtilities`GraphicsUtilities`Private`min467$$,CalculateUtilities`GraphicsUtilities`Private`max468$$],
+Plus[CalculateUtilities`GraphicsUtilities`Private`min467$$,Times[Rational[2,125],
+Pi]],CalculateUtilities`GraphicsUtilities`Private`max468$$]],Times[8,Pi]]},LabelStyle -> {FontFamily -> "Bitstream Charter"},
+WorkingPrecision -> MachinePrecision,PlotRange -> Automatic,LabelStyle -> {},Ticks -> Automatic,
+ImageSize -> {330.0},AxesLabel -> {RawBoxes[FormBox["x",TraditionalForm]],RawBoxes[
+FormBox["y",TraditionalForm]]},AxesLabel -> {RawBoxes[FormBox["x",TraditionalForm]],None}]]],
+RuleDelayed["Specifications",{{CalculateUtilities`GraphicsUtilities`Private`more$$,{False,True},ControlType -> None},{{CalculateUtilities`GraphicsUtilities`Private`min467$$,-0.5,"min"},-1,1,ImageSize -> Tiny,ControlPlacement -> 1},{{CalculateUtilities`GraphicsUtilities`Private`max468$$,0.5,"max"},-1,1,ImageSize -> Tiny,ControlPlacement -> 2},Style[
+Overlay[{Dynamic[RawBoxes[FEPrivate`FrontEndResource["WABitmaps","PodInfoBackground"]]],Pane[
+Column[{Grid[{{Manipulate`Place[1],Manipulate`Place[2]}}]}],ImageMargins -> {{20,30},{10,10}}]},
+{1,2},2,Alignment -> {Left,Top}]]}],RuleDelayed["Options",{ControlPlacement -> Bottom,FrameMargins -> {{0,0},{0,10}},Paneled -> False,AppearanceElements -> {},LabelStyle -> {"DialogStyle",FontColor -> GrayLevel[
+0.25]}}],RuleDelayed["DefaultOptions",{}]],SingleEvaluation -> True],RuleDelayed[
+Initialization,CompoundExpression[{ReleaseHold[Hold[CompoundExpression[SetDelayed[
+CalculateUtilities`GraphicsUtilities`Private`WACleanTicks[Pattern[CalculateUtilities`GraphicsUtilities`Private`ticks,
+Blank[]]],Module[{CalculateUtilities`GraphicsUtilities`Private`res,CalculateUtilities`GraphicsUtilities`Private`unitformat},
+CompoundExpression[Set[CalculateUtilities`GraphicsUtilities`Private`res,ReplaceAll[
+ReplaceAll[Part[DeleteCases[Replace[ReplaceAll[CalculateUtilities`GraphicsUtilities`Private`ticks,
+Alternatives[Style,UnitNumberForm,NumberForm] -> Function[Slot[1]]],RuleDelayed[Pattern[
+CalculateUtilities`GraphicsUtilities`Private`t,{PatternTest[BlankSequence[],NumberQ]}],
+Thread[{CalculateUtilities`GraphicsUtilities`Private`t,CalculateUtilities`GraphicsUtilities`Private`t}]]],
+{Blank[],"",BlankNullSequence[]}],All,Span[1,2]],RuleDelayed[Superscript[Pattern[
+CalculateUtilities`GraphicsUtilities`Private`b,Blank[Integer]],Pattern[CalculateUtilities`GraphicsUtilities`Private`p,
+Blank[Integer]]],Power[CalculateUtilities`GraphicsUtilities`Private`b,CalculateUtilities`GraphicsUtilities`Private`p]]],
+RuleDelayed[Row[{Pattern[CalculateUtilities`GraphicsUtilities`Private`a,BlankSequence[]]},
+"\[Times]"],Times[CalculateUtilities`GraphicsUtilities`Private`a]]]],If[MatchQ[Part[
+CalculateUtilities`GraphicsUtilities`Private`res,All,2],Condition[Pattern[CalculateUtilities`GraphicsUtilities`Private`quants,
+{Alternatives[BlankSequence[ShortQuantity],BlankSequence[Quantity]]}],Equal[Length[
+Union[Map[UnitObjectPart,CalculateUtilities`GraphicsUtilities`Private`quants]]],1]]],
+CompoundExpression[Set[CalculateUtilities`GraphicsUtilities`Private`unitformat,ToCDFQuantityFunction[
+Part[CalculateUtilities`GraphicsUtilities`Private`res,1,2]]],CalculateUtilities`GraphicsUtilities`Private`unitformat -> Thread[
+{Part[CalculateUtilities`GraphicsUtilities`Private`res,All,1],QuantityPart[Part[CalculateUtilities`GraphicsUtilities`Private`res,
+All,2],UnitObjectPart[Part[CalculateUtilities`GraphicsUtilities`Private`res,1,2]]]}]],
+CalculateUtilities`GraphicsUtilities`Private`res]]]],Set[Options[CalculateUtilities`GraphicsUtilities`Private`post$1303444],
+{"ReturnInteractiveTypes" -> False,"Nearest" -> Automatic}],SetDelayed[CalculateUtilities`GraphicsUtilities`Private`post$1303444[
+Pattern[CalculateUtilities`GraphicsUtilities`Private`g,Blank[Graphics]],OptionsPattern[]],
+Check[Module[{CalculateUtilities`GraphicsUtilities`Private`lines,CalculateUtilities`GraphicsUtilities`Private`pts,CalculateUtilities`GraphicsUtilities`Private`gg,CalculateUtilities`GraphicsUtilities`Private`type,CalculateUtilities`GraphicsUtilities`Private`b,CalculateUtilities`GraphicsUtilities`Private`l,CalculateUtilities`GraphicsUtilities`Private`t,CalculateUtilities`GraphicsUtilities`Private`r,CalculateUtilities`GraphicsUtilities`Private`oldepilog,CalculateUtilities`GraphicsUtilities`Private`range,CalculateUtilities`GraphicsUtilities`Private`gridlines,CalculateUtilities`GraphicsUtilities`Private`oldgridlines,Set[
+CalculateUtilities`GraphicsUtilities`Private`neareststyle,OptionValue["Nearest"]]},
+CompoundExpression[Set[CalculateUtilities`GraphicsUtilities`Private`oldepilog,Replace[
+ReplaceAll[Epilog,Options[CalculateUtilities`GraphicsUtilities`Private`g]],Epilog -> Sequence[]]],
+Switch[ReplaceAll[{Frame,Axes},Options[CalculateUtilities`GraphicsUtilities`Private`g]],
+{True,Blank[]},CompoundExpression[Set[CalculateUtilities`GraphicsUtilities`Private`type,
+Frame],Set[{CalculateUtilities`GraphicsUtilities`Private`b,CalculateUtilities`GraphicsUtilities`Private`l,CalculateUtilities`GraphicsUtilities`Private`t,CalculateUtilities`GraphicsUtilities`Private`r},
+CalculateUtilities`GraphicsUtilities`Private`ScaleCoordinatesToTicks[Frame,ReplaceAll[
+FrameTicks,Options[CalculateUtilities`GraphicsUtilities`Private`g]]]]],{Blank[],True},
+CompoundExpression[Set[CalculateUtilities`GraphicsUtilities`Private`type,Axes],Set[
+{CalculateUtilities`GraphicsUtilities`Private`b,CalculateUtilities`GraphicsUtilities`Private`l},
+CalculateUtilities`GraphicsUtilities`Private`ScaleCoordinatesToTicks[Axes,ReplaceAll[
+Ticks,Options[CalculateUtilities`GraphicsUtilities`Private`g]]]]],Blank[],Set[CalculateUtilities`GraphicsUtilities`Private`type,
+None]],If[And[SameQ[CalculateUtilities`GraphicsUtilities`Private`type,Frame],Or[Not[
+Or[SameQ[CalculateUtilities`GraphicsUtilities`Private`t,None],SameQ[CalculateUtilities`GraphicsUtilities`Private`b,
+CalculateUtilities`GraphicsUtilities`Private`t]]],Not[Or[SameQ[CalculateUtilities`GraphicsUtilities`Private`r,
+None],SameQ[CalculateUtilities`GraphicsUtilities`Private`l,CalculateUtilities`GraphicsUtilities`Private`r]]]]],
+Set[CalculateUtilities`GraphicsUtilities`Private`type,None]],If[TrueQ[OptionValue[
+"ReturnInteractiveTypes"]],Which[Or[SameQ[CalculateUtilities`GraphicsUtilities`Private`type,
+None],SameQ[CalculateUtilities`GraphicsUtilities`Private`b,None],SameQ[CalculateUtilities`GraphicsUtilities`Private`l,
+None]],{},FreeQ[CalculateUtilities`GraphicsUtilities`Private`g,Alternatives[Line,
+Point]],{},True,{"Tooltips","Coordinates"}],CompoundExpression[If[FreeQ[CalculateUtilities`GraphicsUtilities`Private`g,
+Alternatives[Line,Point]],Return[CalculateUtilities`GraphicsUtilities`Private`g]],
+Set[CalculateUtilities`GraphicsUtilities`Private`gg,Normal[CalculateUtilities`GraphicsUtilities`Private`g]],
+Set[CalculateUtilities`GraphicsUtilities`Private`pts,Partition[Flatten[Cases[Part[
+CalculateUtilities`GraphicsUtilities`Private`gg,1],RuleDelayed[Point[Pattern[CalculateUtilities`GraphicsUtilities`Private`a,
+Blank[]]],CalculateUtilities`GraphicsUtilities`Private`a],Infinity]],2]],If[Less[
+Length[CalculateUtilities`GraphicsUtilities`Private`pts],2],CompoundExpression[Set[
+CalculateUtilities`GraphicsUtilities`Private`lines,Cases[Part[CalculateUtilities`GraphicsUtilities`Private`gg,
+1],Blank[Line],Infinity]],If[SameQ[CalculateUtilities`GraphicsUtilities`Private`lines,
+{}],Return[CalculateUtilities`GraphicsUtilities`Private`g]],Set[CalculateUtilities`GraphicsUtilities`Private`pts,
+Flatten[Cases[CalculateUtilities`GraphicsUtilities`Private`lines,RuleDelayed[Line[
+Pattern[CalculateUtilities`GraphicsUtilities`Private`a,Blank[]]],CalculateUtilities`GraphicsUtilities`Private`a],
+Infinity],1]],If[SameQ[CalculateUtilities`GraphicsUtilities`Private`neareststyle,
+Automatic],CompoundExpression[If[CalculateUtilities`GraphicsUtilities`Private`orderedLines[
+CalculateUtilities`GraphicsUtilities`Private`lines],Set[CalculateUtilities`GraphicsUtilities`Private`neareststyle,
+"1D"],Set[CalculateUtilities`GraphicsUtilities`Private`neareststyle,"2D"]],Null]]],
+If[SameQ[CalculateUtilities`GraphicsUtilities`Private`neareststyle,Automatic],Set[
+CalculateUtilities`GraphicsUtilities`Private`neareststyle,"2D"]]],Set[CalculateUtilities`GraphicsUtilities`Private`range,
+Replace[ReplaceAll[PlotRange,Options[CalculateUtilities`GraphicsUtilities`Private`g]],
+RuleDelayed[Except[{{PatternTest[Blank[],NumberQ],PatternTest[Blank[],NumberQ]},{PatternTest[
+Blank[],NumberQ],PatternTest[Blank[],NumberQ]}}],{Through[{Min,Max}[Part[CalculateUtilities`GraphicsUtilities`Private`pts,
+All,1]]],Through[{Min,Max}[Part[CalculateUtilities`GraphicsUtilities`Private`pts,
+All,2]]]}]]],Set[CalculateUtilities`GraphicsUtilities`Private`b,CalculateUtilities`GraphicsUtilities`Private`RefineCoordinateFunction[
+CalculateUtilities`GraphicsUtilities`Private`b,First[CalculateUtilities`GraphicsUtilities`Private`range],
+Part[CalculateUtilities`GraphicsUtilities`Private`pts,All,1]]],Set[CalculateUtilities`GraphicsUtilities`Private`l,
+CalculateUtilities`GraphicsUtilities`Private`RefineCoordinateFunction[CalculateUtilities`GraphicsUtilities`Private`l,
+Last[CalculateUtilities`GraphicsUtilities`Private`range],Part[CalculateUtilities`GraphicsUtilities`Private`pts,
+All,2]]],Set[CalculateUtilities`GraphicsUtilities`Private`oldgridlines,ReplaceAll[
+GridLines,Options[CalculateUtilities`GraphicsUtilities`Private`g]]],Set[CalculateUtilities`GraphicsUtilities`Private`gridlines,
+With[{Set[CalculateUtilities`GraphicsUtilities`Private`gray,GrayLevel[0.7]]},Replace[
+CalculateUtilities`GraphicsUtilities`Private`oldgridlines,{RuleDelayed[Pattern[CalculateUtilities`GraphicsUtilities`Private`a,
+{Blank[List],Blank[List]}],Dynamic[Join[CalculateUtilities`GraphicsUtilities`Private`a,
+Replace[MousePosition[{"Graphics",Graphics},None],{None -> {{},{}},RuleDelayed[{Pattern[
+CalculateUtilities`GraphicsUtilities`Private`x,Blank[]],Pattern[CalculateUtilities`GraphicsUtilities`Private`y,
+Blank[]]},{{{CalculateUtilities`GraphicsUtilities`Private`x,CalculateUtilities`GraphicsUtilities`Private`gray}},{{CalculateUtilities`GraphicsUtilities`Private`y,CalculateUtilities`GraphicsUtilities`Private`gray}}}]}],
+2]]],RuleDelayed[{Pattern[CalculateUtilities`GraphicsUtilities`Private`a,Blank[List]],Automatic},
+With[{Set[CalculateUtilities`GraphicsUtilities`Private`divisions,{CalculateUtilities`GraphicsUtilities`Private`a,FindDivisions[
+Last[CalculateUtilities`GraphicsUtilities`Private`range],7]}]},Dynamic[Join[CalculateUtilities`GraphicsUtilities`Private`divisions,
+Replace[MousePosition[{"Graphics",Graphics},None],{None -> {{},{}},RuleDelayed[{Pattern[
+CalculateUtilities`GraphicsUtilities`Private`x,Blank[]],Pattern[CalculateUtilities`GraphicsUtilities`Private`y,
+Blank[]]},{{{CalculateUtilities`GraphicsUtilities`Private`x,CalculateUtilities`GraphicsUtilities`Private`gray}},{{CalculateUtilities`GraphicsUtilities`Private`y,CalculateUtilities`GraphicsUtilities`Private`gray}}}]}],
+2]]]],Blank[] -> Dynamic[Map[Function[{{Slot[1],CalculateUtilities`GraphicsUtilities`Private`gray}}],
+MousePosition[{"Graphics",Graphics},None]]]}]]],If[Or[SameQ[CalculateUtilities`GraphicsUtilities`Private`type,
+None],SameQ[CalculateUtilities`GraphicsUtilities`Private`b,None],SameQ[CalculateUtilities`GraphicsUtilities`Private`l,
+None]],Show[CalculateUtilities`GraphicsUtilities`Private`g,GridLines -> CalculateUtilities`GraphicsUtilities`Private`gridlines,
+If[MatchQ[CalculateUtilities`GraphicsUtilities`Private`oldgridlines,Alternatives[
+None,GridLines]],Method -> {"GridLinesInFront" -> True},Apply[Sequence,{}]]],With[
+{Set[CalculateUtilities`GraphicsUtilities`Private`nf,If[SameQ[CalculateUtilities`GraphicsUtilities`Private`neareststyle,
+"1D"],With[{Set[CalculateUtilities`GraphicsUtilities`Private`n,Nearest[Part[CalculateUtilities`GraphicsUtilities`Private`pts,
+All,1] -> CalculateUtilities`GraphicsUtilities`Private`pts]]},Function[CalculateUtilities`GraphicsUtilities`Private`n[
+Part[Slot[1],1]]]],With[{Set[CalculateUtilities`GraphicsUtilities`Private`n,Nearest[
+Transpose[Times[Transpose[CalculateUtilities`GraphicsUtilities`Private`pts],Power[
+Abs[Apply[Subtract,CalculateUtilities`GraphicsUtilities`Private`range,{1}]],-1]]] -> CalculateUtilities`GraphicsUtilities`Private`pts]],Set[
+CalculateUtilities`GraphicsUtilities`Private`scale,Abs[Apply[Subtract,CalculateUtilities`GraphicsUtilities`Private`range,
+{1}]]]},Function[CalculateUtilities`GraphicsUtilities`Private`n[Times[Slot[1],Power[
+CalculateUtilities`GraphicsUtilities`Private`scale,-1]]]]]]],Set[CalculateUtilities`GraphicsUtilities`Private`left,
+CalculateUtilities`GraphicsUtilities`Private`l],Set[CalculateUtilities`GraphicsUtilities`Private`bottom,
+CalculateUtilities`GraphicsUtilities`Private`b]},Show[CalculateUtilities`GraphicsUtilities`Private`g,
+GridLines -> CalculateUtilities`GraphicsUtilities`Private`gridlines,If[MatchQ[CalculateUtilities`GraphicsUtilities`Private`oldgridlines,
+Alternatives[None,GridLines]],Method -> {"GridLinesInFront" -> True},Apply[Sequence,
+{}]],Epilog -> {CalculateUtilities`GraphicsUtilities`Private`oldepilog,Dynamic[DynamicModule[
+{Set[CalculateUtilities`GraphicsUtilities`Private`pt,CalculateUtilities`GraphicsUtilities`Private`nf[
+MousePosition[{"Graphics",Graphics},{0,0}]]],Set[CalculateUtilities`GraphicsUtilities`Private`scaled,
+MousePosition[{"GraphicsScaled",Graphics},None]]},If[SameQ[CalculateUtilities`GraphicsUtilities`Private`scaled,
+None],{},{Text[Style[Row[{CalculateUtilities`GraphicsUtilities`Private`bottom[Part[
+CalculateUtilities`GraphicsUtilities`Private`pt,1,1]],CalculateUtilities`GraphicsUtilities`Private`left[
+Part[CalculateUtilities`GraphicsUtilities`Private`pt,1,2]]},","],12],Part[CalculateUtilities`GraphicsUtilities`Private`pt,
+1],{Times[1.5,Sign[Plus[Part[CalculateUtilities`GraphicsUtilities`Private`scaled,
+1],-0.5]]],0},Background -> White],AbsolutePointSize[7],Point[CalculateUtilities`GraphicsUtilities`Private`pt],White,AbsolutePointSize[
+5],Point[CalculateUtilities`GraphicsUtilities`Private`pt]}]]]}]]]]]]],CalculateUtilities`GraphicsUtilities`Private`g]],
+SetDelayed[CalculateUtilities`GraphicsUtilities`Private`post$1303444[Pattern[CalculateUtilities`GraphicsUtilities`Private`g,
+Blank[]],BlankNullSequence[]],CalculateUtilities`GraphicsUtilities`Private`g],SetDelayed[
+CalculateUtilities`GraphicsUtilities`Private`orderedLines[{Pattern[CalculateUtilities`GraphicsUtilities`Private`l,
+BlankSequence[Line]]}],Module[{CalculateUtilities`GraphicsUtilities`Private`ordered,CalculateUtilities`GraphicsUtilities`Private`intervals},
+CompoundExpression[Set[CalculateUtilities`GraphicsUtilities`Private`ordered,Apply[
+And,Map[Function[OrderedQ[Part[Slot[1],1,All,1]]],Hold[CalculateUtilities`GraphicsUtilities`Private`l]]]],
+If[Not[TrueQ[CalculateUtilities`GraphicsUtilities`Private`ordered]],Return[False]],
+Set[CalculateUtilities`GraphicsUtilities`Private`intervals,Part[{CalculateUtilities`GraphicsUtilities`Private`l},
+All,1,{1,-1},1]],SameQ[Length[Apply[Interval,CalculateUtilities`GraphicsUtilities`Private`intervals]],
+Length[CalculateUtilities`GraphicsUtilities`Private`intervals]]]]],Set[CalculateUtilities`GraphicsUtilities`Private`ScaleCoordinatesToTicks[
+Frame,Alternatives[Automatic,FrameTicks]],{Identity,Identity,Identity,Identity}],
+SetDelayed[CalculateUtilities`GraphicsUtilities`Private`ScaleCoordinatesToTicks[Frame,
+{Pattern[CalculateUtilities`GraphicsUtilities`Private`b,Blank[]],Pattern[CalculateUtilities`GraphicsUtilities`Private`l,
+Blank[]],Pattern[CalculateUtilities`GraphicsUtilities`Private`t,Blank[]],Pattern[
+CalculateUtilities`GraphicsUtilities`Private`r,Blank[]]}],Map[CalculateUtilities`GraphicsUtilities`Private`TicksToFunction,
+{CalculateUtilities`GraphicsUtilities`Private`b,CalculateUtilities`GraphicsUtilities`Private`l,CalculateUtilities`GraphicsUtilities`Private`t,CalculateUtilities`GraphicsUtilities`Private`r}]],
+SetDelayed[CalculateUtilities`GraphicsUtilities`Private`ScaleCoordinatesToTicks[Frame,
+{{Pattern[CalculateUtilities`GraphicsUtilities`Private`l,Blank[]],Pattern[CalculateUtilities`GraphicsUtilities`Private`r,
+Blank[]]},{Pattern[CalculateUtilities`GraphicsUtilities`Private`b,Blank[]],Pattern[
+CalculateUtilities`GraphicsUtilities`Private`t,Blank[]]}}],Map[CalculateUtilities`GraphicsUtilities`Private`TicksToFunction,
+{CalculateUtilities`GraphicsUtilities`Private`b,CalculateUtilities`GraphicsUtilities`Private`l,CalculateUtilities`GraphicsUtilities`Private`t,CalculateUtilities`GraphicsUtilities`Private`r}]],
+Set[CalculateUtilities`GraphicsUtilities`Private`ScaleCoordinatesToTicks[Frame,Blank[]],
+{None,None,None,None}],Set[CalculateUtilities`GraphicsUtilities`Private`ScaleCoordinatesToTicks[
+Axes,Alternatives[Automatic,Ticks]],{Identity,Identity}],SetDelayed[CalculateUtilities`GraphicsUtilities`Private`ScaleCoordinatesToTicks[
+Axes,{Pattern[CalculateUtilities`GraphicsUtilities`Private`h,Blank[]],Pattern[CalculateUtilities`GraphicsUtilities`Private`v,
+Blank[]]}],Map[CalculateUtilities`GraphicsUtilities`Private`TicksToFunction,{CalculateUtilities`GraphicsUtilities`Private`h,CalculateUtilities`GraphicsUtilities`Private`v}]],
+Set[CalculateUtilities`GraphicsUtilities`Private`ScaleCoordinatesToTicks[Axes,Blank[]],
+{None,None}],SetDelayed[CalculateUtilities`GraphicsUtilities`Private`CDFCleanTicks[
+Pattern[CalculateUtilities`GraphicsUtilities`Private`ticks,Blank[]]],ReplaceAll[ReplaceAll[
+Part[DeleteCases[ReplaceAll[CalculateUtilities`GraphicsUtilities`Private`ticks,Alternatives[
+Style,NumberForm] -> Function[Slot[1]]],{Blank[],"",BlankNullSequence[]}],All,Span[
+1,2]],RuleDelayed[Superscript[Pattern[CalculateUtilities`GraphicsUtilities`Private`b,
+Blank[Integer]],Pattern[CalculateUtilities`GraphicsUtilities`Private`p,Blank[Integer]]],
+Power[CalculateUtilities`GraphicsUtilities`Private`b,CalculateUtilities`GraphicsUtilities`Private`p]]],
+RuleDelayed[Row[{Pattern[CalculateUtilities`GraphicsUtilities`Private`a,BlankSequence[]]},
+"\[Times]"],Times[CalculateUtilities`GraphicsUtilities`Private`a]]]],SetDelayed[CalculateUtilities`GraphicsUtilities`Private`TicksToFunction[
+Pattern[CalculateUtilities`GraphicsUtilities`Private`ticks$,Blank[]]],CalculateUtilities`GraphicsUtilities`Private`iTicksToFunction[
+CalculateUtilities`GraphicsUtilities`Private`WACleanTicks[CalculateUtilities`GraphicsUtilities`Private`ticks$]]],
+Set[CalculateUtilities`GraphicsUtilities`Private`TicksToFunction[None],None],Set[
+CalculateUtilities`GraphicsUtilities`Private`TicksToFunction[False],None],Set[CalculateUtilities`GraphicsUtilities`Private`TicksToFunction[
+True],None],Set[CalculateUtilities`GraphicsUtilities`Private`TicksToFunction[Automatic],
+Identity],Set[CalculateUtilities`GraphicsUtilities`Private`TicksToFunction[All],Identity],
+SetDelayed[CalculateUtilities`GraphicsUtilities`Private`iTicksToFunction[Pattern[
+CalculateUtilities`GraphicsUtilities`Private`func,Blank[]] -> Pattern[CalculateUtilities`GraphicsUtilities`Private`ticks,
+Blank[]]],Replace[CalculateUtilities`GraphicsUtilities`Private`iTicksToFunction[CalculateUtilities`GraphicsUtilities`Private`ticks],
+RuleDelayed[Pattern[CalculateUtilities`GraphicsUtilities`Private`f,Except[None]],
+Composition[CalculateUtilities`GraphicsUtilities`Private`func,CalculateUtilities`GraphicsUtilities`Private`f]]]],
+Set[CalculateUtilities`GraphicsUtilities`Private`iTicksToFunction[{}],None],SetDelayed[
+CalculateUtilities`GraphicsUtilities`Private`iTicksToFunction[Pattern[CalculateUtilities`GraphicsUtilities`Private`ticks,
+{Repeated[{Blank[Integer],Blank[String]}]}]],Which[Quiet[MatchQ[Apply[SameQ,Map[Function[
+Part[DateList[Slot[1]],Span[2,All]]],CalculateUtilities`GraphicsUtilities`Private`ticks,
+{2}],{1}],{Repeated[True]}]],DateString,Apply[And,StringMatchQ[Part[CalculateUtilities`GraphicsUtilities`Private`ticks,
+All,2],NumberString]],CalculateUtilities`GraphicsUtilities`Private`iTicksToFunction[
+Transpose[{Part[CalculateUtilities`GraphicsUtilities`Private`ticks,All,1],ToExpression[
+Part[CalculateUtilities`GraphicsUtilities`Private`ticks,All,2]]}]],True,None]],SetDelayed[
+CalculateUtilities`GraphicsUtilities`Private`iTicksToFunction[Pattern[CalculateUtilities`GraphicsUtilities`Private`ticks,
+{Repeated[{PatternTest[Blank[],NumericQ],PatternTest[Blank[],NumericQ]}]}]],Which[
+MatchQ[Apply[Equal,CalculateUtilities`GraphicsUtilities`Private`ticks,{1}],{Repeated[
+True]}],Identity,MatchQ[Apply[Function[Equal[Slot[1],Log[Slot[2]]]],CalculateUtilities`GraphicsUtilities`Private`ticks,
+{1}],{Repeated[True]}],Exp,TrueQ[Quiet[Apply[Equal,Apply[Divide,Plus[Transpose[Rest[
+CalculateUtilities`GraphicsUtilities`Private`ticks]],Times[-1,Part[CalculateUtilities`GraphicsUtilities`Private`ticks,
+1]]]]]]],With[{Set[CalculateUtilities`GraphicsUtilities`Private`slope,Apply[Divide,
+Apply[Subtract,Part[CalculateUtilities`GraphicsUtilities`Private`ticks,{-1,1}]]]]},
+Function[SetPrecision[Plus[Times[Plus[Slot[1],Times[-1,Part[CalculateUtilities`GraphicsUtilities`Private`ticks,
+1,1]]],Power[CalculateUtilities`GraphicsUtilities`Private`slope,-1]],Part[CalculateUtilities`GraphicsUtilities`Private`ticks,
+1,2]],3]]],True,None]],Set[CalculateUtilities`GraphicsUtilities`Private`iTicksToFunction[
+Blank[]],None],SetDelayed[CalculateUtilities`GraphicsUtilities`Private`RefineCoordinateFunction[
+Pattern[CalculateUtilities`GraphicsUtilities`Private`type,Blank[]],BlankNullSequence[]],
+CalculateUtilities`GraphicsUtilities`Private`type],SetDelayed[CalculateUtilities`GraphicsUtilities`Private`RefineCoordinateFunction[
+Identity,{Pattern[CalculateUtilities`GraphicsUtilities`Private`min,Blank[]],Pattern[
+CalculateUtilities`GraphicsUtilities`Private`max,Blank[]]},Blank[]],With[{Set[CalculateUtilities`GraphicsUtilities`Private`nf,
+CalculateUtilities`GraphicsUtilities`Private`numberForm],Set[CalculateUtilities`GraphicsUtilities`Private`acc,
+Floor[Plus[Max[Ceiling[FullSimplify[Plus[Log[10,Max[Abs[{CalculateUtilities`GraphicsUtilities`Private`min,CalculateUtilities`GraphicsUtilities`Private`max}]]],
+Times[-1,Log[10,Times[Plus[CalculateUtilities`GraphicsUtilities`Private`max,Times[
+-1,CalculateUtilities`GraphicsUtilities`Private`min]],Power[100,-1]]]]]]],3],Times[
+-1,RealExponent[Max[Abs[{CalculateUtilities`GraphicsUtilities`Private`min,CalculateUtilities`GraphicsUtilities`Private`max}]]]]]]]},
+Function[CalculateUtilities`GraphicsUtilities`Private`nf[Slot[1],CalculateUtilities`GraphicsUtilities`Private`acc]]]],
+SetDelayed[CalculateUtilities`GraphicsUtilities`Private`RefineCoordinateFunction[
+Exp,{Pattern[CalculateUtilities`GraphicsUtilities`Private`min,Blank[]],Pattern[CalculateUtilities`GraphicsUtilities`Private`max,
+Blank[]]},Blank[]],With[{Set[CalculateUtilities`GraphicsUtilities`Private`prec,Max[
+Ceiling[FullSimplify[Plus[Log[10,Max[Abs[{CalculateUtilities`GraphicsUtilities`Private`min,CalculateUtilities`GraphicsUtilities`Private`max}]]],
+Times[-1,Log[10,Times[Plus[CalculateUtilities`GraphicsUtilities`Private`max,Times[
+-1,CalculateUtilities`GraphicsUtilities`Private`min]],Power[100,-1]]]]]]],3]]},Function[
+Quiet[RawBoxes[ToBoxes[NumberForm[Exp[Slot[1]],CalculateUtilities`GraphicsUtilities`Private`prec]]]]]]],
+SetDelayed[CalculateUtilities`GraphicsUtilities`Private`RefineCoordinateFunction[
+DateString,{Pattern[CalculateUtilities`GraphicsUtilities`Private`min,Blank[]],Pattern[
+CalculateUtilities`GraphicsUtilities`Private`max,Blank[]]},Pattern[CalculateUtilities`GraphicsUtilities`Private`pts,
+Blank[]]],Module[{CalculateUtilities`GraphicsUtilities`Private`dates,CalculateUtilities`GraphicsUtilities`Private`spec},
+CompoundExpression[Set[CalculateUtilities`GraphicsUtilities`Private`dates,Map[DateList,
+CalculateUtilities`GraphicsUtilities`Private`pts]],Set[CalculateUtilities`GraphicsUtilities`Private`spec,
+Switch[Map[Length,Map[Union,Transpose[CalculateUtilities`GraphicsUtilities`Private`dates]]],
+{Blank[],1,1,BlankSequence[]},{"Year"},{Blank[],Blank[],1,BlankSequence[]},{"MonthNameShort"," ","Year"},
+Blank[],{"DayShort"," ","MonthNameShort"," ","Year"}]],If[Greater[Times[Plus[CalculateUtilities`GraphicsUtilities`Private`max,
+Times[-1,CalculateUtilities`GraphicsUtilities`Private`min]],Power[31536000,-1]],25],
+Set[CalculateUtilities`GraphicsUtilities`Private`spec,{"Year"}]],With[{Set[CalculateUtilities`GraphicsUtilities`Private`s,
+CalculateUtilities`GraphicsUtilities`Private`spec]},Function[DateString[Slot[1],CalculateUtilities`GraphicsUtilities`Private`s]]]]]],
+Set[CalculateUtilities`GraphicsUtilities`Private`numberForm,Function[{CalculateUtilities`GraphicsUtilities`Private`a,CalculateUtilities`GraphicsUtilities`Private`acc},
+Quiet[RawBoxes[ToBoxes[NumberForm[CalculateUtilities`GraphicsUtilities`Private`a,
+Max[1,Ceiling[Plus[RealExponent[CalculateUtilities`GraphicsUtilities`Private`a],CalculateUtilities`GraphicsUtilities`Private`acc]]],
+ExponentFunction -> Function[Null],NumberFormat -> Function[StringReplace[Slot[1],
+StringExpression[Pattern[CalculateUtilities`GraphicsUtilities`Private`s,BlankSequence[]],
+".",EndOfString] -> CalculateUtilities`GraphicsUtilities`Private`s]]]]]]]]]]],ReleaseHold[
+Uncompress["6:eJztVtuO0zAQbSn3O/wBEs+IpeURCeiyy0oLlKS815tMEgvXDrazF34ePHaTNNtupZguoFX6MKonzfHMmTPTeXYkgqTf6/XUdWM+ChYnt/D01JixmOei4PGH01yCUlTw5Bo+u2tMCHoXGDmD2PluGrMn5Jxod36D7xMWFYxo+KYpo5qCmu1Lkmc0UrVnIumx+cmMiYgw+hOe7wxfDkevRw4GY5kQrUFyNWwLmWeSKEh6CHTDmPeM8O/u+KQ8fi4YC+FHATwC9ch4p5LEBkZwwjAf71uvNlP3MTFNeExkfOk0WXmO216gtKQ8ncI8xzcuJmunLTCRqXLcPCi52aQgF/5tfCBCG5Pz2KTt2RLoF8YVo++8rP45dwM8v20LL8XJeuIwv3cMeSOaHoNapfNF6zo5RqqutdEvuLqs+bLVIC+eMvX/0iFVejWMV23DgPmRqfF67a3Cj9rCixy7fiHuh8Z8cY4ScN1wqAT3ScQFW0TRTHngJNo+XZUbh8O4V/EdotOnghVOYOIs+8X2x+MKvN4UQqzdbAvS4fUMCCAH44ott7s0pXqcEUkiA7y4rl822VTUoXjc2b72lMfUDDBHyKblCc1BslR3oqPs6x8Vt5LLuSZD3g+4hhTkRtHfwfpIQy6Pp8IzkhAvaOrVm8MqqQmR3rIflCBhTjhFSPrLfOw393C5EkjVvkR1ScfiwJbm1D+JflngQ+Cpzpo7tufo8m5bzCYQJ7XqApoky9Nme0z3m0w3bmgOdF8SfEviP9C7TaHbFP7qprCyB3drQrcmdGtCtyZ0a8L/uybYiPFf6TePFLg+"]]},
+Set[Typeset`initDone$$,True]]],RuleDelayed[DynamicModuleValues,{}],RuleDelayed[Deinitialization,
+None],RuleDelayed[UntrackedVariables,{Typeset`size$$}],SynchronousInitialization -> True,
+RuleDelayed[UnsavedVariables,{Typeset`initDone$$}],RuleDelayed[UndoTrackedVariables,
+{Typeset`show$$,Typeset`bookmarkMode$$}]],"Manipulate",Deployed -> True,StripOnInput -> False],
+TraditionalForm],Manipulate`InterpretManipulate[1]],TraditionalForm]],"Output",{Background -> None,GraphicsBoxOptions -> {DefaultBaseStyle -> {FontFamily -> "Times","Graphics"},DefaultAxesStyle -> Directive[
+GrayLevel[0,0.35],FontColor -> GrayLevel[0.25],FontOpacity -> 1,"GraphicsAxes"],DefaultFrameStyle -> Directive[
+GrayLevel[0,0.35],FontColor -> GrayLevel[0.25],FontOpacity -> 1,"GraphicsFrame"],DefaultFrameTicksStyle -> Directive[
+FontFamily -> "Times",FontSize -> 10,"GraphicsFrameTicks"],DefaultTicksStyle -> Directive[
+FontFamily -> "Times",FontSize -> 10,"GraphicsTicks"]},Graphics3DBoxOptions -> {DefaultBaseStyle -> {FontFamily -> "Times","Graphics3D"}}},
+NumberPoint -> ".",CellSize -> {550,Automatic},AutoStyleOptions -> {"HighlightFormattingErrors" -> False},
+RenderingOptions -> {"3DRenderingMethod" -> "BSPTreeOrDepthBuffer"}]}],XMLElement[
+"dataformats",{},{"minput"}]}],XMLElement["expressiontypes",{"count" -> "2"},{"\n   ",XMLElement[
+"expressiontype",{"name" -> "2DMathPlot"},{}],"\n   ",XMLElement["expressiontype",
+{"name" -> "2DMathPlot"},{}],"\n  "}]}]],Set[Typeset`aux1$$,{True,False,{False},True}],Set[
+Typeset`aux2$$,{True,False,{False,False},True}],Set[Typeset`asyncpods$$,{}],Set[Typeset`nonpods$$,
+{}],Set[Typeset`initdone$$,FrontEnd`SuppressEvaluationHash[True]],Set[Typeset`queryinfo$$,
+{"success" -> "true","error" -> "false",{"http://www.w3.org/XML/1998/namespace","space"} -> "preserve","numpods" -> "2","datatypes" -> "Plot","timedout" -> "","timedoutpods" -> "","timing" -> "2.4010000000000002","parsetiming" -> "0.502","parsetimedout" -> "false","recalculate" -> "","id" -> "MSP921a70a4bg7haia4eb00001h1d379agf44027i","host" -> "https://www5a.wolframalpha.com","server" -> "16","related" -> "https://www5a.wolframalpha.com/api/v1/relatedQueries.jsp?id=MSPa931a70a4bg7haia4eb0000427d14g850dif6e6790697034197112851","version" -> "2.6","inputstring" -> "plot sin(x)"}],Set[
+Typeset`sessioninfo$$,{"TimeZone" -> -5.0,"Date" -> {2021,6,8,6,14,5.875434},"Line" -> 7,"SessionID" -> 34218027381132708144}],Set[
+Typeset`showpods$$,{1,2}],Set[Typeset`failedpods$$,{}],Set[Typeset`chosen$$,{}],Set[
+Typeset`open$$,False],Set[Typeset`newq$$,"plot sin(x)"]},DynamicBox[ToBoxes[AlphaIntegration`FormatAlphaResults[
+Dynamic[{1,{Typeset`pod1$$,Typeset`pod2$$},{Typeset`aux1$$,Typeset`aux2$$},Typeset`chosen$$,Typeset`open$$,Typeset`elements$$,Typeset`q$$,Typeset`opts$$,Typeset`nonpods$$,Typeset`queryinfo$$,Typeset`sessioninfo$$,Typeset`showpods$$,Typeset`failedpods$$,Typeset`newq$$}]],
+StandardForm],RuleDelayed[TrackedSymbols,{Typeset`showpods$$,Typeset`failedpods$$}]],
+RuleDelayed[Initialization,If[And[Not[SameQ[Typeset`initdone$$,True]],Not[SameQ[Typeset`initdone$$,
+FrontEnd`SuppressEvaluationHash[True]]]],CompoundExpression[Null,WolframAlphaClient`Private`doAsyncUpdates[
+Hold[{Typeset`pod1$$,Typeset`pod2$$}],Typeset`asyncpods$$,Dynamic[Typeset`failedpods$$]],
+Set[Typeset`asyncpods$$,{}],Set[Typeset`initdone$$,FrontEnd`SuppressEvaluationHash[
+True]]]]],RuleDelayed[DynamicModuleValues,{}],SynchronousInitialization -> False,
+ExpressionUUID -> "e2cbe5c6-a78c-48ea-8c1d-ba20bbcca40a"],BaseStyle -> {Deployed -> True},
+Editable -> False,DeleteWithContents -> True,SelectWithContents -> True],StandardForm],
+"Output",CellLabel -> "Out[7]= ",ExpressionUUID -> "75907bb4-c289-416f-9e76-de6a672da5c9"]},
+Open],ExpressionUUID -> "a74761c0-8998-4890-b37f-7c80a5b91c4f"]},Open],ExpressionUUID -> "741c5bb2-8aa7-46f9-afaf-a8d2e0b79a11"],Cell[
+CellGroupData[
+{Cell[
+TextData[{"Manipula\[CCedilla]\[ATilde]o"," ","de"," ","listas"}],"Section",
+ExpressionUUID -> "2120f645-144c-40d8-90d3-9c68f28fe1b4"],Cell[
+TextData[{"Listas","\[NonBreakingSpace]","representam"," ","cole\[CCedilla]\[OTilde]es",":"}],
+"Text",ExpressionUUID -> "a4e94b9e-8b1b-4f59-a725-9e0728ad15f3"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"{",RowBox[{"1",",","2",",","3"}],"}"}]],"Input",CellFrame -> 1,
+Background -> RGBColor[0.8784313725490196`,1,0.8784313725490196`],CellFrameColor -> RGBColor[
+0.8509803921568627`,0.8509803921568627`,0.8509803921568627`],CellLabel -> "In[8]:= ",
+ExpressionUUID -> "dd17c301-788b-45f6-ae5b-95e0653ca947"],Cell[
+BoxData[RowBox[{"{",RowBox[
+{"1",",","2",",","3"}],"}"}],StandardForm],"Output",CellLabel -> "Out[8]= ",ExpressionUUID -> "06ddd587-f0e9-49c0-94f0-6e2c68bf0bc5"]},
+Open],ExpressionUUID -> "a3f1eb70-46a6-44c2-a106-ab466c5c3738"],Cell[
+TextData[{"Listas"," ","podem"," ","conter"," ","n\[UAcute]meros",StyleBox[
+RowBox[{","," "}]],"vari\[AAcute]veis",StyleBox[RowBox[{","," "}]],"c\[AAcute]lculos"," ","ou"," ","mesmo"," ","outras"," ","listas",":"}],
+"Text",ExpressionUUID -> "53ef6bf1-4ec1-46fe-a0fe-13388f35f5ae"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"{",RowBox[{"1",",","a",",",RowBox[{"2","+","3"}],",",RowBox[
+{"{",RowBox[{"x",",","y",",","z"}],"}"}]}],"}"}]],"Input",CellFrame -> 1,Background -> RGBColor[
+0.8784313725490196`,1,0.8784313725490196`],CellFrameColor -> RGBColor[0.8509803921568627`,
+0.8509803921568627`,0.8509803921568627`],CellLabel -> "In[9]:= ",ExpressionUUID -> "ba3af16d-d42a-44b9-a43f-7d0a58e999c0"],Cell[
+BoxData[
+RowBox[{"{",RowBox[{"1",",","a",",","5",",",RowBox[{"{",RowBox[{"x",",","y",",","z"}],"}"}]}],"}"}],
+StandardForm],"Output",CellLabel -> "Out[9]= ",ExpressionUUID -> "90bd3927-2ea4-464a-8b0f-623600668bbb"]},
+Open],ExpressionUUID -> "b2bd06b5-8c47-4034-8bec-f5159df89b75"],Cell[
+TextData[{"Muitas"," ","opera\[CCedilla]\[OTilde]es"," ","envolvendo"," ","listas"," ","s\[ATilde]o"," ","aplicadas"," ","elemento"," ","a"," ","elemento",":"}],
+"Text",ExpressionUUID -> "f6c341ef-12a9-42d1-8bc5-427da5261f2d"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{RowBox[{"{",RowBox[{"1",",","2",",","3"}],"}"}],"+","2"}]],
+"Input",CellFrame -> 1,Background -> RGBColor[0.8784313725490196`,1,0.8784313725490196`],
+CellFrameColor -> RGBColor[0.8509803921568627`,0.8509803921568627`,0.8509803921568627`],
+CellLabel -> "In[10]:= ",ExpressionUUID -> "63821710-e161-44c1-9275-dfc8b1069f4b"],Cell[
+BoxData[
+RowBox[{"{",RowBox[{"3",",","4",",","5"}],"}"}],StandardForm],"Output",CellLabel -> "Out[10]= ",
+ExpressionUUID -> "7a3205d0-c96a-470a-b25e-dcb652f62e6a"]},Open],ExpressionUUID -> "8a8a126c-bfc0-4829-9eaa-4b58ccaf2165"],Cell[
+TextData[
+{"Partes"," ","de"," ","listas"," ","podem"," ","ser"," ","extra\[IAcute]das",":"}],
+"Text",ExpressionUUID -> "f970f5ba-44e2-44cb-9359-8fd4a70f2d24"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{RowBox[{"{",RowBox[{"a",",","b",",","c"}],"}"}],"[",RowBox[
+{"[","1","]"}],"]"}]],"Input",CellFrame -> 1,Background -> RGBColor[0.8784313725490196`,
+1,0.8784313725490196`],CellFrameColor -> RGBColor[0.8509803921568627`,0.8509803921568627`,
+0.8509803921568627`],CellLabel -> "In[11]:= ",ExpressionUUID -> "d88cc476-bf08-4c85-88e8-baee2e208e8a"],Cell[
+BoxData[
+"a",StandardForm],"Output",CellLabel -> "Out[11]= ",ExpressionUUID -> "a9841209-2986-42af-988f-a9a685b852f3"]},
+Open],ExpressionUUID -> "f0589f16-1644-43d3-b094-41f7f8d6f4cf"],Cell[
+TextData[{"Listas","\[NonBreakingSpace]","podem"," ","ser"," ","constru\[IAcute]das"," ","com"," ","fun\[CCedilla]\[OTilde]es",":"}],
+"Text",ExpressionUUID -> "8847db69-0b16-433c-85e4-aeaca086e42c"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"Range","[","10","]"}]],"Input",CellFrame -> 1,Background -> RGBColor[
+0.8784313725490196`,1,0.8784313725490196`],CellFrameColor -> RGBColor[0.8509803921568627`,
+0.8509803921568627`,0.8509803921568627`],CellLabel -> "In[12]:= ",ExpressionUUID -> "e5523b45-2c89-4c4a-aff0-1188e80ec8e3"],Cell[
+BoxData[
+RowBox[{"{",RowBox[{"1",",","2",",","3",",","4",",","5",",","6",",","7",",","8",",","9",",","10"}],"}"}],
+StandardForm],"Output",CellLabel -> "Out[12]= ",ExpressionUUID -> "1138244a-4d89-4266-923e-5e13624d459f"]},
+Open],ExpressionUUID -> "8d887fbf-7f69-49d7-a7ee-e0db7f5922c1"]},Open],ExpressionUUID -> "99c59b4d-56a7-4d4c-99d0-4e6aab55785b"]},
+Open],ExpressionUUID -> "4188904c-bc9b-4c63-b342-8a024529fd54"]},StyleDefinitions -> "Default.nb",
+FrontEndVersion -> "12.3 for Wolfram Cloud 1.58.2.1 (May 19, 2021)",TaggingRules -> {"TryRealOnly" -> False}]
